@@ -1,0 +1,8815 @@
+/* Footer */
+
+.footer{position: absolute;
+width: 1512px;
+height: 618px;
+left: 0px;
+top: 2034px;
+}
+
+
+/* Rectangle 4539 */
+
+.rect_4539{position: absolute;
+left: 0%;
+right: 0%;
+top: 35.28%;
+bottom: 0%;}
+
+/* Maroon */
+.maroon{background: #5F0409;
+mix-blend-mode: multiply;}
+
+
+/* Group 39661 */
+
+.group_39661{position: absolute;
+left: 1.98%;
+right: 1.98%;
+top: 41.75%;
+bottom: 3.38%;}
+
+
+
+/* 24px */
+
+/* Auto layout */
+.px24{display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+left: 6.67%;
+right: 72.86%;
+top: 41.75%;
+bottom: 36.38%;
+}
+
+
+/* Logo - #3 */
+
+.logo3{width: 303.6px;
+height: 38.15px;
+}
+
+/* Inside auto layout */
+.inside_auto_layout{flex: none;
+order: 0;
+flex-grow: 0;}
+
+
+/* Dharohar Darshan */
+
+.dharohar_darshan{position: absolute;
+width: 257px;
+height: 32px;
+left: 46.6px;
+top: 3.66px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 29.4627px;
+line-height: 31px;
+/* or 106% */
+
+color: #FFFFFF;
+}
+
+
+/* Group 39512 */
+
+.group_39512{position: absolute;
+width: 35.76px;
+height: 38.15px;
+left: 0px;
+top: 0px;}
+
+
+
+/* Group 39518 */
+
+.group_39518{position: absolute;
+width: 35.76px;
+height: 38.15px;
+left: 0px;
+top: 0px};
+
+
+
+/* Rectangle 4483 */
+
+.rect_4483{position: absolute;
+width: 16.02px;
+height: 38.15px;
+left: 0px;
+top: 0px;
+
+background: #FF993A;}
+
+
+/* Rectangle 4484 */
+
+.rect_4484{position: absolute;
+width: 17.41px;
+height: 17.91px;
+left: 18.35px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 61.9789px;}
+
+
+/* Rectangle 4485 */
+
+.rect_4485{position: absolute;
+width: 17.41px;
+height: 17.91px;
+left: 18.35px;
+top: 20.24px;
+
+background: #24A931;
+border-radius: 61.9789px;
+}
+
+/* Copyright */
+
+opyright{width: 310.36px;
+height: 30px;}
+
+/* Paragraph/Default */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Social Media Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 22px;
+
+width: 177px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Social Media Icon Square/Facebook */
+
+width: 11px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Social Media Icon */
+
+position: absolute;
+visibility: hidden;
+left: -110.46%;
+right: -116.81%;
+top: -45.29%;
+bottom: -44.18%;
+
+/* Secondary Colors / Color 2 */
+background: #F2F1FF;
+border-radius: 8px;
+
+
+/* Facebook */
+
+position: absolute;
+left: 8.56%;
+right: 2.19%;
+top: 2.08%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* Social Media Icon Square/Twitter */
+
+width: 19px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Social Media Icon */
+
+position: absolute;
+visibility: hidden;
+left: -42.9%;
+right: -46.58%;
+top: -70.7%;
+bottom: -69.3%;
+
+/* Secondary Colors / Color 2 */
+background: #F2F1FF;
+border-radius: 8px;
+
+
+/* Twitter */
+
+position: absolute;
+left: 4.47%;
+right: 0.79%;
+top: 0.62%;
+bottom: 2.02%;
+
+background: #FFFFFF;
+
+
+/* Social Media Icon Square/Instagram */
+
+width: 19px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Social Media Icon */
+
+position: absolute;
+visibility: hidden;
+left: -42.9%;
+right: -46.58%;
+top: -45.29%;
+bottom: -44.18%;
+
+/* Secondary Colors / Color 2 */
+background: #F2F1FF;
+border-radius: 8px;
+
+
+/* Instagram */
+
+position: absolute;
+left: 4.47%;
+right: 0.79%;
+top: 2.08%;
+bottom: 3.18%;
+
+background: #FFFFFF;
+
+
+/* Rectangle 646 */
+
+position: absolute;
+left: 4.47%;
+right: 0.79%;
+top: 2.08%;
+bottom: 3.18%;
+
+background: #6D3502;
+
+
+/* Group 39463 */
+
+position: absolute;
+left: 27.32%;
+right: 16.9%;
+top: 17.93%;
+bottom: 26.03%;
+
+
+
+/* Ellipse 140 (Stroke) */
+
+position: absolute;
+left: 27.32%;
+right: 23.63%;
+top: 24.93%;
+bottom: 26.03%;
+
+/* Neutral/100 */
+background: #FFFFFF;
+
+
+/* Ellipse 141 */
+
+position: absolute;
+left: 71.58%;
+right: 16.9%;
+top: 17.93%;
+bottom: 70.54%;
+
+/* Neutral/100 */
+background: #FFFFFF;
+
+
+/* Social Media Icon Square/LinkedIn */
+
+width: 19px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Group 73 */
+
+position: absolute;
+left: 4.47%;
+right: nan%;
+top: 4.57%;
+bottom: nan%;
+
+
+
+/* Social Media Icon */
+
+position: absolute;
+visibility: hidden;
+left: -42.9%;
+right: -46.58%;
+top: -47.81%;
+bottom: -52.19%;
+
+/* Secondary Colors / Color 2 */
+background: #F2F1FF;
+border-radius: 8px;
+
+
+/* Social Media Icon Square/YouTube */
+
+width: 21px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Group 73 */
+
+position: absolute;
+left: -224.05%;
+right: 229.77%;
+top: 2.64%;
+bottom: 4.04%;
+
+
+
+/* Social Media Icon */
+
+position: absolute;
+visibility: hidden;
+left: -34.05%;
+right: -37.38%;
+top: -70.7%;
+bottom: -69.3%;
+
+/* Secondary Colors / Color 2 */
+background: #F2F1FF;
+border-radius: 8px;
+
+
+/* YouTube */
+
+position: absolute;
+left: -224.05%;
+right: 229.77%;
+top: 2.64%;
+bottom: 4.04%;
+
+background: #FFFFFF;
+
+
+/* Line 135 */
+
+position: absolute;
+left: 1.98%;
+right: 1.98%;
+top: 87.7%;
+bottom: 12.3%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1px solid #5F0409;
+
+
+/* Footer Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+left: 50.07%;
+right: 39.58%;
+top: 41.75%;
+bottom: 20.39%;
+
+
+
+/* Footer Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 157px;
+height: 234px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer Title */
+
+width: 50px;
+height: 22px;
+
+/* Text Single/300/Bold */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 157px;
+height: 172px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 148px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 148px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Swadesh Darshan */
+
+width: 148px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 137px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 137px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Copyright Policy */
+
+width: 137px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 157px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 157px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hyperlinking Policy */
+
+width: 157px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 38px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 38px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Help */
+
+width: 38px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 82px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 82px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Feedback */
+
+width: 82px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Footer Right */
+
+position: absolute;
+left: 32.39%;
+right: 55.24%;
+top: 41.75%;
+bottom: 20.39%;
+
+
+
+/* Footer Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+left: 32.39%;
+right: 55.24%;
+top: 41.75%;
+bottom: 20.39%;
+
+
+
+/* Footer Title */
+
+width: 50px;
+height: 22px;
+
+/* Text Single/300/Bold */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Footer Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 187px;
+height: 172px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 27px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 27px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ASI */
+
+width: 27px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 133px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 133px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Culture ministry */
+
+width: 133px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 127px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 127px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Incredible India */
+
+width: 127px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 138px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 138px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Tourism ministry */
+
+width: 138px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 187px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 187px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Password */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Protected monuments */
+
+width: 187px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+left: 77.24%;
+right: 6.8%;
+top: 52.1%;
+bottom: 44.66%;
+
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 242px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Email */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Email */
+
+position: absolute;
+width: 16.67px;
+height: 12.5px;
+left: 1.67px;
+top: 3.87px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 29.75%;
+bottom: 18.17%;
+
+border: 1.4px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.33%;
+top: 19.33%;
+bottom: 46.1%;
+
+border: 1.4px solid #FFFFFF;
+
+
+/* Link item */
+
+width: 216px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Footer Column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+left: 77.24%;
+right: 17.48%;
+top: 41.75%;
+bottom: 54.69%;
+
+
+
+/* Footer Title */
+
+width: 80px;
+height: 22px;
+
+/* Text Single/300/Bold */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+left: 77.24%;
+right: 10.56%;
+top: 58.9%;
+bottom: 37.86%;
+
+
+
+/* Master Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+width: 185px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line Rounded/Phone */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Phone */
+
+position: absolute;
+left: 8.33%;
+right: 8.32%;
+top: 6.83%;
+bottom: 9.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 8.33%;
+right: 8.32%;
+top: 6.83%;
+bottom: 9.84%;
+
+border: 1.4px solid #FFFFFF;
+
+
+/* Link item */
+
+width: 159px;
+height: 20px;
+
+/* Text Single/200/Regular */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line Rounded/Chevron Down */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 8px */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+left: 73.48%;
+right: 25.2%;
+top: 87.86%;
+bottom: 7.98%;
+
+
+
+/* Footer Content */
+
+position: absolute;
+left: 6.47%;
+right: 6.81%;
+top: 91.75%;
+bottom: 3.38%;
+
+
+
+/* Footer Left */
+
+position: absolute;
+left: 6.47%;
+right: 81.59%;
+top: 91.76%;
+bottom: 3.38%;
+
+/* Paragraph/Default */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+
+color: #FFFFFF;
+
+
+
+/* Footer Right */
+
+position: absolute;
+left: 60.19%;
+right: 6.81%;
+top: 91.75%;
+bottom: 3.4%;
+
+/* Paragraph / Default */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+/* identical to box height, or 167% */
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* Govt. logos */
+
+position: absolute;
+left: 2.71%;
+right: 2.71%;
+top: 0%;
+bottom: 68.77%;
+
+
+
+/* Group 39629 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 90.68%;
+bottom: 0%;
+
+
+
+/* Asset 1 1 */
+
+position: absolute;
+left: 0%;
+right: 49.98%;
+top: 90.68%;
+bottom: 0%;
+
+
+
+/* Layer_1-2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 95.72%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 95.72%;
+bottom: 4.28%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.94%;
+right: 97.26%;
+top: 28.07%;
+bottom: 19.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.07%;
+right: 98.13%;
+top: 27.96%;
+bottom: 19.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: 98.24%;
+top: 49.82%;
+bottom: 15.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.05%;
+right: 96.7%;
+top: 49.84%;
+bottom: 15.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.54%;
+right: 97.73%;
+top: 15.95%;
+bottom: 43.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.5%;
+right: 93.7%;
+top: 27.9%;
+bottom: 19.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.64%;
+right: 94.56%;
+top: 27.79%;
+bottom: 19.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.07%;
+right: 94.68%;
+top: 49.65%;
+bottom: 16.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 93.14%;
+top: 49.68%;
+bottom: 15.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.1%;
+right: 94.17%;
+top: 15.72%;
+bottom: 43.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.06%;
+right: 90.13%;
+top: 27.74%;
+bottom: 19.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.2%;
+right: 91%;
+top: 27.57%;
+bottom: 19.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.63%;
+right: 91.12%;
+top: 49.43%;
+bottom: 16.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.17%;
+right: 89.57%;
+top: 49.46%;
+bottom: 16.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.66%;
+right: 90.6%;
+top: 15.56%;
+bottom: 44.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.62%;
+right: 86.57%;
+top: 27.52%;
+bottom: 19.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.76%;
+right: 87.44%;
+top: 27.4%;
+bottom: 19.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.19%;
+right: 87.55%;
+top: 49.27%;
+bottom: 16.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.74%;
+right: 86.01%;
+top: 49.29%;
+bottom: 16.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.22%;
+right: 87.04%;
+top: 15.34%;
+bottom: 44.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.18%;
+right: 83.01%;
+top: 27.35%;
+bottom: 20.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.32%;
+right: 83.88%;
+top: 27.24%;
+bottom: 20.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.75%;
+right: 83.99%;
+top: 49.1%;
+bottom: 16.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.3%;
+right: 82.45%;
+top: 49.07%;
+bottom: 16.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 83.48%;
+top: 15.17%;
+bottom: 44.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.75%;
+right: 79.45%;
+top: 27.13%;
+bottom: 20.34%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.88%;
+right: 80.31%;
+top: 27.02%;
+bottom: 20.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.43%;
+top: 48.88%;
+bottom: 16.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.86%;
+right: 78.89%;
+top: 48.9%;
+bottom: 16.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.35%;
+right: 79.92%;
+top: 15%;
+bottom: 44.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 75.88%;
+top: 26.96%;
+bottom: 20.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.45%;
+right: 76.75%;
+top: 26.85%;
+bottom: 20.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.88%;
+right: 76.87%;
+top: 48.71%;
+bottom: 17.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.43%;
+right: 75.32%;
+top: 48.73%;
+bottom: 16.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 76.35%;
+top: 14.78%;
+bottom: 44.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.87%;
+right: 72.32%;
+top: 26.79%;
+bottom: 20.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.01%;
+right: 73.19%;
+top: 26.63%;
+bottom: 20.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.44%;
+right: 73.3%;
+top: 48.49%;
+bottom: 17.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.99%;
+right: 71.76%;
+top: 48.51%;
+bottom: 17.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.47%;
+right: 72.79%;
+top: 14.61%;
+bottom: 45.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.43%;
+right: 68.76%;
+top: 26.57%;
+bottom: 20.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.57%;
+right: 69.63%;
+top: 26.46%;
+bottom: 20.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29%;
+right: 69.74%;
+top: 48.32%;
+bottom: 17.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.55%;
+right: 68.2%;
+top: 48.34%;
+bottom: 17.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.04%;
+right: 69.23%;
+top: 14.39%;
+bottom: 45.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34%;
+right: 65.2%;
+top: 26.4%;
+bottom: 21.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.14%;
+right: 66.06%;
+top: 26.24%;
+bottom: 21.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.57%;
+right: 66.18%;
+top: 48.1%;
+bottom: 17.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.11%;
+right: 64.64%;
+top: 48.12%;
+bottom: 17.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.6%;
+right: 65.67%;
+top: 14.22%;
+bottom: 45.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.56%;
+right: 61.63%;
+top: 26.18%;
+bottom: 21.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.7%;
+right: 62.5%;
+top: 26.07%;
+bottom: 21.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.13%;
+right: 62.62%;
+top: 47.93%;
+bottom: 17.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.68%;
+right: 61.07%;
+top: 47.95%;
+bottom: 17.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.16%;
+right: 62.1%;
+top: 14.06%;
+bottom: 45.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.12%;
+right: 58.07%;
+top: 26.01%;
+bottom: 21.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.26%;
+right: 58.94%;
+top: 25.9%;
+bottom: 21.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.69%;
+right: 59.05%;
+top: 47.76%;
+bottom: 17.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.24%;
+right: 57.51%;
+top: 47.79%;
+bottom: 17.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.72%;
+right: 58.54%;
+top: 13.83%;
+bottom: 45.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.68%;
+right: 54.51%;
+top: 25.79%;
+bottom: 21.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.82%;
+right: 55.38%;
+top: 25.68%;
+bottom: 21.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.25%;
+right: 55.49%;
+top: 47.54%;
+bottom: 18.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.8%;
+right: 53.95%;
+top: 47.56%;
+bottom: 18.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.29%;
+right: 54.98%;
+top: 13.67%;
+bottom: 45.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.25%;
+right: 50.95%;
+top: 25.63%;
+bottom: 21.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.39%;
+right: 51.81%;
+top: 25.51%;
+bottom: 21.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.82%;
+right: 51.93%;
+top: 47.37%;
+bottom: 18.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.36%;
+right: 50.39%;
+top: 47.4%;
+bottom: 18.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.85%;
+right: 51.42%;
+top: 13.44%;
+bottom: 46.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.81%;
+right: 47.38%;
+top: 25.46%;
+bottom: 22.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.95%;
+right: 48.25%;
+top: 25.29%;
+bottom: 21.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.38%;
+right: 48.36%;
+top: 47.15%;
+bottom: 18.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.93%;
+right: 46.82%;
+top: 47.18%;
+bottom: 18.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 47.85%;
+top: 13.28%;
+bottom: 46.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.37%;
+right: 43.82%;
+top: 25.24%;
+bottom: 22.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.51%;
+right: 44.69%;
+top: 25.13%;
+bottom: 22.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.94%;
+right: 44.8%;
+top: 46.99%;
+bottom: 18.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.49%;
+right: 43.26%;
+top: 47.01%;
+bottom: 18.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.97%;
+right: 44.29%;
+top: 13.06%;
+bottom: 46.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.94%;
+right: 40.26%;
+top: 25.07%;
+bottom: 22.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.07%;
+right: 41.13%;
+top: 24.96%;
+bottom: 22.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.5%;
+right: 41.24%;
+top: 46.82%;
+bottom: 18.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.05%;
+right: 39.7%;
+top: 46.79%;
+bottom: 18.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.54%;
+right: 40.73%;
+top: 12.89%;
+bottom: 46.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 36.7%;
+top: 24.85%;
+bottom: 22.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.64%;
+right: 37.56%;
+top: 24.74%;
+bottom: 22.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.07%;
+right: 37.68%;
+top: 46.6%;
+bottom: 19.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.61%;
+right: 36.13%;
+top: 46.62%;
+bottom: 19.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.1%;
+right: 37.16%;
+top: 12.72%;
+bottom: 46.92%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.06%;
+right: 33.13%;
+top: 24.68%;
+bottom: 22.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.2%;
+right: 34%;
+top: 24.57%;
+bottom: 22.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.63%;
+right: 34.12%;
+top: 46.43%;
+bottom: 19.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.18%;
+right: 32.57%;
+top: 46.45%;
+bottom: 19.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.66%;
+right: 33.6%;
+top: 12.5%;
+bottom: 47.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.62%;
+right: 29.57%;
+top: 24.51%;
+bottom: 22.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.44%;
+top: 24.35%;
+bottom: 22.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.19%;
+right: 30.55%;
+top: 46.21%;
+bottom: 19.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.74%;
+right: 29.01%;
+top: 46.23%;
+bottom: 19.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.23%;
+right: 30.04%;
+top: 12.33%;
+bottom: 47.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.19%;
+right: 26.01%;
+top: 24.29%;
+bottom: 23.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.32%;
+right: 26.87%;
+top: 24.18%;
+bottom: 23.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 26.99%;
+top: 46.04%;
+bottom: 19.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.3%;
+right: 25.45%;
+top: 46.06%;
+bottom: 19.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.79%;
+right: 26.48%;
+top: 12.11%;
+bottom: 47.53%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.75%;
+right: 22.45%;
+top: 24.13%;
+bottom: 23.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.89%;
+right: 23.31%;
+top: 23.96%;
+bottom: 23.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.32%;
+right: 23.43%;
+top: 45.82%;
+bottom: 19.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.86%;
+right: 21.88%;
+top: 45.84%;
+bottom: 19.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.35%;
+right: 22.91%;
+top: 11.94%;
+bottom: 47.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.31%;
+right: 18.88%;
+top: 23.9%;
+bottom: 23.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.45%;
+right: 19.75%;
+top: 23.79%;
+bottom: 23.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.88%;
+right: 19.87%;
+top: 45.65%;
+bottom: 20.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.43%;
+right: 18.32%;
+top: 45.67%;
+bottom: 19.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.91%;
+right: 19.35%;
+top: 11.78%;
+bottom: 47.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.87%;
+right: 15.32%;
+top: 23.74%;
+bottom: 23.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.01%;
+right: 16.19%;
+top: 23.62%;
+bottom: 23.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.44%;
+right: 16.3%;
+top: 45.49%;
+bottom: 20.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.99%;
+right: 14.76%;
+top: 45.51%;
+bottom: 20.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.48%;
+right: 15.79%;
+top: 11.55%;
+bottom: 48.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.44%;
+right: 11.76%;
+top: 23.51%;
+bottom: 23.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.57%;
+right: 12.63%;
+top: 23.4%;
+bottom: 23.85%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86%;
+right: 12.74%;
+top: 45.26%;
+bottom: 20.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.55%;
+right: 11.2%;
+top: 45.29%;
+bottom: 20.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.04%;
+right: 12.23%;
+top: 11.39%;
+bottom: 48.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91%;
+right: 8.2%;
+top: 23.35%;
+bottom: 24.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.14%;
+right: 9.06%;
+top: 23.23%;
+bottom: 24.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.57%;
+right: 9.18%;
+top: 45.1%;
+bottom: 20.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.11%;
+right: 7.64%;
+top: 45.12%;
+bottom: 20.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.6%;
+right: 8.67%;
+top: 11.17%;
+bottom: 48.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.56%;
+right: 4.63%;
+top: 23.18%;
+bottom: 24.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 5.5%;
+top: 23.01%;
+bottom: 24.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.13%;
+right: 5.61%;
+top: 44.87%;
+bottom: 20.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.68%;
+right: 4.07%;
+top: 44.9%;
+bottom: 20.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.16%;
+right: 5.1%;
+top: 11%;
+bottom: 48.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.12%;
+right: 1.07%;
+top: 22.96%;
+bottom: 24.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.26%;
+right: 1.94%;
+top: 22.85%;
+bottom: 24.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.69%;
+right: 2.05%;
+top: 44.71%;
+bottom: 21.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.24%;
+right: 0.51%;
+top: 44.73%;
+bottom: 20.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.72%;
+right: 1.54%;
+top: 10.78%;
+bottom: 48.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Asset 1 2 */
+
+position: absolute;
+left: 49.98%;
+right: 0%;
+top: 90.68%;
+bottom: 0%;
+
+
+
+/* Layer_1-2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 95.72%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 95.72%;
+bottom: 4.28%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.94%;
+right: 97.26%;
+top: 28.07%;
+bottom: 19.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.07%;
+right: 98.13%;
+top: 27.96%;
+bottom: 19.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: 98.24%;
+top: 49.82%;
+bottom: 15.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.05%;
+right: 96.7%;
+top: 49.84%;
+bottom: 15.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.54%;
+right: 97.73%;
+top: 15.95%;
+bottom: 43.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.5%;
+right: 93.7%;
+top: 27.9%;
+bottom: 19.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.64%;
+right: 94.56%;
+top: 27.79%;
+bottom: 19.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.07%;
+right: 94.68%;
+top: 49.65%;
+bottom: 16.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 93.14%;
+top: 49.68%;
+bottom: 15.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.1%;
+right: 94.17%;
+top: 15.72%;
+bottom: 43.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.06%;
+right: 90.13%;
+top: 27.74%;
+bottom: 19.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.2%;
+right: 91%;
+top: 27.57%;
+bottom: 19.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.63%;
+right: 91.12%;
+top: 49.43%;
+bottom: 16.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.17%;
+right: 89.57%;
+top: 49.46%;
+bottom: 16.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.66%;
+right: 90.6%;
+top: 15.56%;
+bottom: 44.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.62%;
+right: 86.57%;
+top: 27.52%;
+bottom: 19.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.76%;
+right: 87.44%;
+top: 27.4%;
+bottom: 19.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.19%;
+right: 87.55%;
+top: 49.27%;
+bottom: 16.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.74%;
+right: 86.01%;
+top: 49.29%;
+bottom: 16.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.22%;
+right: 87.04%;
+top: 15.34%;
+bottom: 44.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.18%;
+right: 83.01%;
+top: 27.35%;
+bottom: 20.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.32%;
+right: 83.88%;
+top: 27.24%;
+bottom: 20.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.75%;
+right: 83.99%;
+top: 49.1%;
+bottom: 16.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.3%;
+right: 82.45%;
+top: 49.07%;
+bottom: 16.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 83.48%;
+top: 15.17%;
+bottom: 44.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.75%;
+right: 79.45%;
+top: 27.13%;
+bottom: 20.34%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.88%;
+right: 80.31%;
+top: 27.02%;
+bottom: 20.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.43%;
+top: 48.88%;
+bottom: 16.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.86%;
+right: 78.89%;
+top: 48.9%;
+bottom: 16.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.35%;
+right: 79.92%;
+top: 15%;
+bottom: 44.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 75.88%;
+top: 26.96%;
+bottom: 20.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.45%;
+right: 76.75%;
+top: 26.85%;
+bottom: 20.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.88%;
+right: 76.87%;
+top: 48.71%;
+bottom: 17.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.43%;
+right: 75.32%;
+top: 48.73%;
+bottom: 16.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 76.35%;
+top: 14.78%;
+bottom: 44.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.87%;
+right: 72.32%;
+top: 26.79%;
+bottom: 20.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.01%;
+right: 73.19%;
+top: 26.63%;
+bottom: 20.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.44%;
+right: 73.3%;
+top: 48.49%;
+bottom: 17.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.99%;
+right: 71.76%;
+top: 48.51%;
+bottom: 17.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.47%;
+right: 72.79%;
+top: 14.61%;
+bottom: 45.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.43%;
+right: 68.76%;
+top: 26.57%;
+bottom: 20.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.57%;
+right: 69.63%;
+top: 26.46%;
+bottom: 20.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29%;
+right: 69.74%;
+top: 48.32%;
+bottom: 17.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.55%;
+right: 68.2%;
+top: 48.34%;
+bottom: 17.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.04%;
+right: 69.23%;
+top: 14.39%;
+bottom: 45.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34%;
+right: 65.2%;
+top: 26.4%;
+bottom: 21.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.14%;
+right: 66.06%;
+top: 26.24%;
+bottom: 21.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.57%;
+right: 66.18%;
+top: 48.1%;
+bottom: 17.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.11%;
+right: 64.64%;
+top: 48.12%;
+bottom: 17.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.6%;
+right: 65.67%;
+top: 14.22%;
+bottom: 45.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.56%;
+right: 61.63%;
+top: 26.18%;
+bottom: 21.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.7%;
+right: 62.5%;
+top: 26.07%;
+bottom: 21.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.13%;
+right: 62.62%;
+top: 47.93%;
+bottom: 17.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.68%;
+right: 61.07%;
+top: 47.95%;
+bottom: 17.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.16%;
+right: 62.1%;
+top: 14.06%;
+bottom: 45.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.12%;
+right: 58.07%;
+top: 26.01%;
+bottom: 21.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.26%;
+right: 58.94%;
+top: 25.9%;
+bottom: 21.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.69%;
+right: 59.05%;
+top: 47.76%;
+bottom: 17.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.24%;
+right: 57.51%;
+top: 47.79%;
+bottom: 17.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.72%;
+right: 58.54%;
+top: 13.83%;
+bottom: 45.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.68%;
+right: 54.51%;
+top: 25.79%;
+bottom: 21.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.82%;
+right: 55.38%;
+top: 25.68%;
+bottom: 21.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.25%;
+right: 55.49%;
+top: 47.54%;
+bottom: 18.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.8%;
+right: 53.95%;
+top: 47.56%;
+bottom: 18.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.29%;
+right: 54.98%;
+top: 13.67%;
+bottom: 45.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.25%;
+right: 50.95%;
+top: 25.63%;
+bottom: 21.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.39%;
+right: 51.81%;
+top: 25.51%;
+bottom: 21.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.82%;
+right: 51.93%;
+top: 47.37%;
+bottom: 18.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.36%;
+right: 50.39%;
+top: 47.4%;
+bottom: 18.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.85%;
+right: 51.42%;
+top: 13.44%;
+bottom: 46.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.81%;
+right: 47.38%;
+top: 25.46%;
+bottom: 22.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.95%;
+right: 48.25%;
+top: 25.29%;
+bottom: 21.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.38%;
+right: 48.36%;
+top: 47.15%;
+bottom: 18.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.93%;
+right: 46.82%;
+top: 47.18%;
+bottom: 18.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 47.85%;
+top: 13.28%;
+bottom: 46.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.37%;
+right: 43.82%;
+top: 25.24%;
+bottom: 22.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.51%;
+right: 44.69%;
+top: 25.13%;
+bottom: 22.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.94%;
+right: 44.8%;
+top: 46.99%;
+bottom: 18.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.49%;
+right: 43.26%;
+top: 47.01%;
+bottom: 18.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.97%;
+right: 44.29%;
+top: 13.06%;
+bottom: 46.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.94%;
+right: 40.26%;
+top: 25.07%;
+bottom: 22.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.07%;
+right: 41.13%;
+top: 24.96%;
+bottom: 22.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.5%;
+right: 41.24%;
+top: 46.82%;
+bottom: 18.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.05%;
+right: 39.7%;
+top: 46.79%;
+bottom: 18.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.54%;
+right: 40.73%;
+top: 12.89%;
+bottom: 46.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 36.7%;
+top: 24.85%;
+bottom: 22.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.64%;
+right: 37.56%;
+top: 24.74%;
+bottom: 22.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.07%;
+right: 37.68%;
+top: 46.6%;
+bottom: 19.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.61%;
+right: 36.13%;
+top: 46.62%;
+bottom: 19.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.1%;
+right: 37.16%;
+top: 12.72%;
+bottom: 46.92%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.06%;
+right: 33.13%;
+top: 24.68%;
+bottom: 22.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.2%;
+right: 34%;
+top: 24.57%;
+bottom: 22.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.63%;
+right: 34.12%;
+top: 46.43%;
+bottom: 19.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.18%;
+right: 32.57%;
+top: 46.45%;
+bottom: 19.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.66%;
+right: 33.6%;
+top: 12.5%;
+bottom: 47.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.62%;
+right: 29.57%;
+top: 24.51%;
+bottom: 22.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.44%;
+top: 24.35%;
+bottom: 22.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.19%;
+right: 30.55%;
+top: 46.21%;
+bottom: 19.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.74%;
+right: 29.01%;
+top: 46.23%;
+bottom: 19.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.23%;
+right: 30.04%;
+top: 12.33%;
+bottom: 47.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.19%;
+right: 26.01%;
+top: 24.29%;
+bottom: 23.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.32%;
+right: 26.87%;
+top: 24.18%;
+bottom: 23.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 26.99%;
+top: 46.04%;
+bottom: 19.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.3%;
+right: 25.45%;
+top: 46.06%;
+bottom: 19.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.79%;
+right: 26.48%;
+top: 12.11%;
+bottom: 47.53%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.75%;
+right: 22.45%;
+top: 24.13%;
+bottom: 23.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.89%;
+right: 23.31%;
+top: 23.96%;
+bottom: 23.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.32%;
+right: 23.43%;
+top: 45.82%;
+bottom: 19.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.86%;
+right: 21.88%;
+top: 45.84%;
+bottom: 19.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.35%;
+right: 22.91%;
+top: 11.94%;
+bottom: 47.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.31%;
+right: 18.88%;
+top: 23.9%;
+bottom: 23.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.45%;
+right: 19.75%;
+top: 23.79%;
+bottom: 23.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.88%;
+right: 19.87%;
+top: 45.65%;
+bottom: 20.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.43%;
+right: 18.32%;
+top: 45.67%;
+bottom: 19.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.91%;
+right: 19.35%;
+top: 11.78%;
+bottom: 47.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.87%;
+right: 15.32%;
+top: 23.74%;
+bottom: 23.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.01%;
+right: 16.19%;
+top: 23.62%;
+bottom: 23.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.44%;
+right: 16.3%;
+top: 45.49%;
+bottom: 20.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.99%;
+right: 14.76%;
+top: 45.51%;
+bottom: 20.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.48%;
+right: 15.79%;
+top: 11.55%;
+bottom: 48.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.44%;
+right: 11.76%;
+top: 23.51%;
+bottom: 23.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.57%;
+right: 12.63%;
+top: 23.4%;
+bottom: 23.85%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86%;
+right: 12.74%;
+top: 45.26%;
+bottom: 20.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.55%;
+right: 11.2%;
+top: 45.29%;
+bottom: 20.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.04%;
+right: 12.23%;
+top: 11.39%;
+bottom: 48.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91%;
+right: 8.2%;
+top: 23.35%;
+bottom: 24.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.14%;
+right: 9.06%;
+top: 23.23%;
+bottom: 24.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.57%;
+right: 9.18%;
+top: 45.1%;
+bottom: 20.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.11%;
+right: 7.64%;
+top: 45.12%;
+bottom: 20.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.6%;
+right: 8.67%;
+top: 11.17%;
+bottom: 48.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.56%;
+right: 4.63%;
+top: 23.18%;
+bottom: 24.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 5.5%;
+top: 23.01%;
+bottom: 24.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.13%;
+right: 5.61%;
+top: 44.87%;
+bottom: 20.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.68%;
+right: 4.07%;
+top: 44.9%;
+bottom: 20.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.16%;
+right: 5.1%;
+top: 11%;
+bottom: 48.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.12%;
+right: 1.07%;
+top: 22.96%;
+bottom: 24.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.26%;
+right: 1.94%;
+top: 22.85%;
+bottom: 24.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.69%;
+right: 2.05%;
+top: 44.71%;
+bottom: 21.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.24%;
+right: 0.51%;
+top: 44.73%;
+bottom: 20.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.72%;
+right: 1.54%;
+top: 10.78%;
+bottom: 48.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Group 39633 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 90.68%;
+
+
+
+/* Asset 1 1 */
+
+position: absolute;
+left: 0%;
+right: 49.98%;
+top: 0%;
+bottom: 90.68%;
+
+
+
+/* Layer_1-2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 95.72%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 95.72%;
+bottom: 4.28%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.94%;
+right: 97.26%;
+top: 28.07%;
+bottom: 19.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.07%;
+right: 98.13%;
+top: 27.96%;
+bottom: 19.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: 98.24%;
+top: 49.82%;
+bottom: 15.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.05%;
+right: 96.7%;
+top: 49.84%;
+bottom: 15.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.54%;
+right: 97.73%;
+top: 15.95%;
+bottom: 43.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.5%;
+right: 93.7%;
+top: 27.9%;
+bottom: 19.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.64%;
+right: 94.56%;
+top: 27.79%;
+bottom: 19.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.07%;
+right: 94.68%;
+top: 49.65%;
+bottom: 16.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 93.14%;
+top: 49.68%;
+bottom: 15.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.1%;
+right: 94.17%;
+top: 15.72%;
+bottom: 43.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.06%;
+right: 90.13%;
+top: 27.74%;
+bottom: 19.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.2%;
+right: 91%;
+top: 27.57%;
+bottom: 19.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.63%;
+right: 91.12%;
+top: 49.43%;
+bottom: 16.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.17%;
+right: 89.57%;
+top: 49.46%;
+bottom: 16.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.66%;
+right: 90.6%;
+top: 15.56%;
+bottom: 44.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.62%;
+right: 86.57%;
+top: 27.52%;
+bottom: 19.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.76%;
+right: 87.44%;
+top: 27.4%;
+bottom: 19.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.19%;
+right: 87.55%;
+top: 49.27%;
+bottom: 16.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.74%;
+right: 86.01%;
+top: 49.29%;
+bottom: 16.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.22%;
+right: 87.04%;
+top: 15.34%;
+bottom: 44.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.18%;
+right: 83.01%;
+top: 27.35%;
+bottom: 20.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.32%;
+right: 83.88%;
+top: 27.24%;
+bottom: 20.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.75%;
+right: 83.99%;
+top: 49.1%;
+bottom: 16.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.3%;
+right: 82.45%;
+top: 49.07%;
+bottom: 16.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 83.48%;
+top: 15.17%;
+bottom: 44.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.75%;
+right: 79.45%;
+top: 27.13%;
+bottom: 20.34%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.88%;
+right: 80.31%;
+top: 27.02%;
+bottom: 20.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.43%;
+top: 48.88%;
+bottom: 16.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.86%;
+right: 78.89%;
+top: 48.9%;
+bottom: 16.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.35%;
+right: 79.92%;
+top: 15%;
+bottom: 44.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 75.88%;
+top: 26.96%;
+bottom: 20.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.45%;
+right: 76.75%;
+top: 26.85%;
+bottom: 20.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.88%;
+right: 76.87%;
+top: 48.71%;
+bottom: 17.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.43%;
+right: 75.32%;
+top: 48.73%;
+bottom: 16.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 76.35%;
+top: 14.78%;
+bottom: 44.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.87%;
+right: 72.32%;
+top: 26.79%;
+bottom: 20.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.01%;
+right: 73.19%;
+top: 26.63%;
+bottom: 20.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.44%;
+right: 73.3%;
+top: 48.49%;
+bottom: 17.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.99%;
+right: 71.76%;
+top: 48.51%;
+bottom: 17.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.47%;
+right: 72.79%;
+top: 14.61%;
+bottom: 45.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.43%;
+right: 68.76%;
+top: 26.57%;
+bottom: 20.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.57%;
+right: 69.63%;
+top: 26.46%;
+bottom: 20.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29%;
+right: 69.74%;
+top: 48.32%;
+bottom: 17.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.55%;
+right: 68.2%;
+top: 48.34%;
+bottom: 17.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.04%;
+right: 69.23%;
+top: 14.39%;
+bottom: 45.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34%;
+right: 65.2%;
+top: 26.4%;
+bottom: 21.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.14%;
+right: 66.06%;
+top: 26.24%;
+bottom: 21.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.57%;
+right: 66.18%;
+top: 48.1%;
+bottom: 17.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.11%;
+right: 64.64%;
+top: 48.12%;
+bottom: 17.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.6%;
+right: 65.67%;
+top: 14.22%;
+bottom: 45.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.56%;
+right: 61.63%;
+top: 26.18%;
+bottom: 21.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.7%;
+right: 62.5%;
+top: 26.07%;
+bottom: 21.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.13%;
+right: 62.62%;
+top: 47.93%;
+bottom: 17.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.68%;
+right: 61.07%;
+top: 47.95%;
+bottom: 17.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.16%;
+right: 62.1%;
+top: 14.06%;
+bottom: 45.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.12%;
+right: 58.07%;
+top: 26.01%;
+bottom: 21.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.26%;
+right: 58.94%;
+top: 25.9%;
+bottom: 21.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.69%;
+right: 59.05%;
+top: 47.76%;
+bottom: 17.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.24%;
+right: 57.51%;
+top: 47.79%;
+bottom: 17.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.72%;
+right: 58.54%;
+top: 13.83%;
+bottom: 45.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.68%;
+right: 54.51%;
+top: 25.79%;
+bottom: 21.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.82%;
+right: 55.38%;
+top: 25.68%;
+bottom: 21.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.25%;
+right: 55.49%;
+top: 47.54%;
+bottom: 18.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.8%;
+right: 53.95%;
+top: 47.56%;
+bottom: 18.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.29%;
+right: 54.98%;
+top: 13.67%;
+bottom: 45.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.25%;
+right: 50.95%;
+top: 25.63%;
+bottom: 21.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.39%;
+right: 51.81%;
+top: 25.51%;
+bottom: 21.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.82%;
+right: 51.93%;
+top: 47.37%;
+bottom: 18.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.36%;
+right: 50.39%;
+top: 47.4%;
+bottom: 18.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.85%;
+right: 51.42%;
+top: 13.44%;
+bottom: 46.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.81%;
+right: 47.38%;
+top: 25.46%;
+bottom: 22.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.95%;
+right: 48.25%;
+top: 25.29%;
+bottom: 21.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.38%;
+right: 48.36%;
+top: 47.15%;
+bottom: 18.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.93%;
+right: 46.82%;
+top: 47.18%;
+bottom: 18.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 47.85%;
+top: 13.28%;
+bottom: 46.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.37%;
+right: 43.82%;
+top: 25.24%;
+bottom: 22.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.51%;
+right: 44.69%;
+top: 25.13%;
+bottom: 22.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.94%;
+right: 44.8%;
+top: 46.99%;
+bottom: 18.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.49%;
+right: 43.26%;
+top: 47.01%;
+bottom: 18.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.97%;
+right: 44.29%;
+top: 13.06%;
+bottom: 46.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.94%;
+right: 40.26%;
+top: 25.07%;
+bottom: 22.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.07%;
+right: 41.13%;
+top: 24.96%;
+bottom: 22.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.5%;
+right: 41.24%;
+top: 46.82%;
+bottom: 18.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.05%;
+right: 39.7%;
+top: 46.79%;
+bottom: 18.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.54%;
+right: 40.73%;
+top: 12.89%;
+bottom: 46.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 36.7%;
+top: 24.85%;
+bottom: 22.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.64%;
+right: 37.56%;
+top: 24.74%;
+bottom: 22.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.07%;
+right: 37.68%;
+top: 46.6%;
+bottom: 19.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.61%;
+right: 36.13%;
+top: 46.62%;
+bottom: 19.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.1%;
+right: 37.16%;
+top: 12.72%;
+bottom: 46.92%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.06%;
+right: 33.13%;
+top: 24.68%;
+bottom: 22.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.2%;
+right: 34%;
+top: 24.57%;
+bottom: 22.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.63%;
+right: 34.12%;
+top: 46.43%;
+bottom: 19.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.18%;
+right: 32.57%;
+top: 46.45%;
+bottom: 19.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.66%;
+right: 33.6%;
+top: 12.5%;
+bottom: 47.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.62%;
+right: 29.57%;
+top: 24.51%;
+bottom: 22.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.44%;
+top: 24.35%;
+bottom: 22.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.19%;
+right: 30.55%;
+top: 46.21%;
+bottom: 19.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.74%;
+right: 29.01%;
+top: 46.23%;
+bottom: 19.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.23%;
+right: 30.04%;
+top: 12.33%;
+bottom: 47.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.19%;
+right: 26.01%;
+top: 24.29%;
+bottom: 23.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.32%;
+right: 26.87%;
+top: 24.18%;
+bottom: 23.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 26.99%;
+top: 46.04%;
+bottom: 19.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.3%;
+right: 25.45%;
+top: 46.06%;
+bottom: 19.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.79%;
+right: 26.48%;
+top: 12.11%;
+bottom: 47.53%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.75%;
+right: 22.45%;
+top: 24.13%;
+bottom: 23.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.89%;
+right: 23.31%;
+top: 23.96%;
+bottom: 23.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.32%;
+right: 23.43%;
+top: 45.82%;
+bottom: 19.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.86%;
+right: 21.88%;
+top: 45.84%;
+bottom: 19.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.35%;
+right: 22.91%;
+top: 11.94%;
+bottom: 47.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.31%;
+right: 18.88%;
+top: 23.9%;
+bottom: 23.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.45%;
+right: 19.75%;
+top: 23.79%;
+bottom: 23.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.88%;
+right: 19.87%;
+top: 45.65%;
+bottom: 20.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.43%;
+right: 18.32%;
+top: 45.67%;
+bottom: 19.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.91%;
+right: 19.35%;
+top: 11.78%;
+bottom: 47.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.87%;
+right: 15.32%;
+top: 23.74%;
+bottom: 23.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.01%;
+right: 16.19%;
+top: 23.62%;
+bottom: 23.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.44%;
+right: 16.3%;
+top: 45.49%;
+bottom: 20.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.99%;
+right: 14.76%;
+top: 45.51%;
+bottom: 20.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.48%;
+right: 15.79%;
+top: 11.55%;
+bottom: 48.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.44%;
+right: 11.76%;
+top: 23.51%;
+bottom: 23.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.57%;
+right: 12.63%;
+top: 23.4%;
+bottom: 23.85%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86%;
+right: 12.74%;
+top: 45.26%;
+bottom: 20.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.55%;
+right: 11.2%;
+top: 45.29%;
+bottom: 20.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.04%;
+right: 12.23%;
+top: 11.39%;
+bottom: 48.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91%;
+right: 8.2%;
+top: 23.35%;
+bottom: 24.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.14%;
+right: 9.06%;
+top: 23.23%;
+bottom: 24.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.57%;
+right: 9.18%;
+top: 45.1%;
+bottom: 20.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.11%;
+right: 7.64%;
+top: 45.12%;
+bottom: 20.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.6%;
+right: 8.67%;
+top: 11.17%;
+bottom: 48.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.56%;
+right: 4.63%;
+top: 23.18%;
+bottom: 24.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 5.5%;
+top: 23.01%;
+bottom: 24.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.13%;
+right: 5.61%;
+top: 44.87%;
+bottom: 20.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.68%;
+right: 4.07%;
+top: 44.9%;
+bottom: 20.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.16%;
+right: 5.1%;
+top: 11%;
+bottom: 48.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.12%;
+right: 1.07%;
+top: 22.96%;
+bottom: 24.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.26%;
+right: 1.94%;
+top: 22.85%;
+bottom: 24.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.69%;
+right: 2.05%;
+top: 44.71%;
+bottom: 21.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.24%;
+right: 0.51%;
+top: 44.73%;
+bottom: 20.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.72%;
+right: 1.54%;
+top: 10.78%;
+bottom: 48.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Asset 1 2 */
+
+position: absolute;
+left: 49.98%;
+right: 0%;
+top: 0%;
+bottom: 90.68%;
+
+
+
+/* Layer_1-2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 4.28%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 4.28%;
+bottom: 95.72%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 95.72%;
+bottom: 4.28%;
+
+/* Maroon */
+background: #5F0409;
+/* Maroon */
+border: 1.54px solid #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.94%;
+right: 97.26%;
+top: 28.07%;
+bottom: 19.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.07%;
+right: 98.13%;
+top: 27.96%;
+bottom: 19.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.5%;
+right: 98.24%;
+top: 49.82%;
+bottom: 15.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.05%;
+right: 96.7%;
+top: 49.84%;
+bottom: 15.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.54%;
+right: 97.73%;
+top: 15.95%;
+bottom: 43.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.5%;
+right: 93.7%;
+top: 27.9%;
+bottom: 19.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.64%;
+right: 94.56%;
+top: 27.79%;
+bottom: 19.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.07%;
+right: 94.68%;
+top: 49.65%;
+bottom: 16.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.61%;
+right: 93.14%;
+top: 49.68%;
+bottom: 15.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.1%;
+right: 94.17%;
+top: 15.72%;
+bottom: 43.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.06%;
+right: 90.13%;
+top: 27.74%;
+bottom: 19.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.2%;
+right: 91%;
+top: 27.57%;
+bottom: 19.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.63%;
+right: 91.12%;
+top: 49.43%;
+bottom: 16.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.17%;
+right: 89.57%;
+top: 49.46%;
+bottom: 16.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.66%;
+right: 90.6%;
+top: 15.56%;
+bottom: 44.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.62%;
+right: 86.57%;
+top: 27.52%;
+bottom: 19.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.76%;
+right: 87.44%;
+top: 27.4%;
+bottom: 19.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.19%;
+right: 87.55%;
+top: 49.27%;
+bottom: 16.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.74%;
+right: 86.01%;
+top: 49.29%;
+bottom: 16.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.22%;
+right: 87.04%;
+top: 15.34%;
+bottom: 44.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.18%;
+right: 83.01%;
+top: 27.35%;
+bottom: 20.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.32%;
+right: 83.88%;
+top: 27.24%;
+bottom: 20.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.75%;
+right: 83.99%;
+top: 49.1%;
+bottom: 16.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.3%;
+right: 82.45%;
+top: 49.07%;
+bottom: 16.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.79%;
+right: 83.48%;
+top: 15.17%;
+bottom: 44.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.75%;
+right: 79.45%;
+top: 27.13%;
+bottom: 20.34%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.88%;
+right: 80.31%;
+top: 27.02%;
+bottom: 20.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.32%;
+right: 80.43%;
+top: 48.88%;
+bottom: 16.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.86%;
+right: 78.89%;
+top: 48.9%;
+bottom: 16.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.35%;
+right: 79.92%;
+top: 15%;
+bottom: 44.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.31%;
+right: 75.88%;
+top: 26.96%;
+bottom: 20.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.45%;
+right: 76.75%;
+top: 26.85%;
+bottom: 20.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.88%;
+right: 76.87%;
+top: 48.71%;
+bottom: 17.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.43%;
+right: 75.32%;
+top: 48.73%;
+bottom: 16.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.91%;
+right: 76.35%;
+top: 14.78%;
+bottom: 44.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.87%;
+right: 72.32%;
+top: 26.79%;
+bottom: 20.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.01%;
+right: 73.19%;
+top: 26.63%;
+bottom: 20.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.44%;
+right: 73.3%;
+top: 48.49%;
+bottom: 17.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.99%;
+right: 71.76%;
+top: 48.51%;
+bottom: 17.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.47%;
+right: 72.79%;
+top: 14.61%;
+bottom: 45.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.43%;
+right: 68.76%;
+top: 26.57%;
+bottom: 20.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.57%;
+right: 69.63%;
+top: 26.46%;
+bottom: 20.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 29%;
+right: 69.74%;
+top: 48.32%;
+bottom: 17.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.55%;
+right: 68.2%;
+top: 48.34%;
+bottom: 17.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.04%;
+right: 69.23%;
+top: 14.39%;
+bottom: 45.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34%;
+right: 65.2%;
+top: 26.4%;
+bottom: 21.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.14%;
+right: 66.06%;
+top: 26.24%;
+bottom: 21.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.57%;
+right: 66.18%;
+top: 48.1%;
+bottom: 17.63%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.11%;
+right: 64.64%;
+top: 48.12%;
+bottom: 17.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.6%;
+right: 65.67%;
+top: 14.22%;
+bottom: 45.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.56%;
+right: 61.63%;
+top: 26.18%;
+bottom: 21.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.7%;
+right: 62.5%;
+top: 26.07%;
+bottom: 21.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 36.13%;
+right: 62.62%;
+top: 47.93%;
+bottom: 17.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.68%;
+right: 61.07%;
+top: 47.95%;
+bottom: 17.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.16%;
+right: 62.1%;
+top: 14.06%;
+bottom: 45.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.12%;
+right: 58.07%;
+top: 26.01%;
+bottom: 21.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.26%;
+right: 58.94%;
+top: 25.9%;
+bottom: 21.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.69%;
+right: 59.05%;
+top: 47.76%;
+bottom: 17.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.24%;
+right: 57.51%;
+top: 47.79%;
+bottom: 17.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 40.72%;
+right: 58.54%;
+top: 13.83%;
+bottom: 45.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.68%;
+right: 54.51%;
+top: 25.79%;
+bottom: 21.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.82%;
+right: 55.38%;
+top: 25.68%;
+bottom: 21.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.25%;
+right: 55.49%;
+top: 47.54%;
+bottom: 18.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.8%;
+right: 53.95%;
+top: 47.56%;
+bottom: 18.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 44.29%;
+right: 54.98%;
+top: 13.67%;
+bottom: 45.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.25%;
+right: 50.95%;
+top: 25.63%;
+bottom: 21.84%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.39%;
+right: 51.81%;
+top: 25.51%;
+bottom: 21.73%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.82%;
+right: 51.93%;
+top: 47.37%;
+bottom: 18.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.36%;
+right: 50.39%;
+top: 47.4%;
+bottom: 18.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.85%;
+right: 51.42%;
+top: 13.44%;
+bottom: 46.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.81%;
+right: 47.38%;
+top: 25.46%;
+bottom: 22.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.95%;
+right: 48.25%;
+top: 25.29%;
+bottom: 21.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.38%;
+right: 48.36%;
+top: 47.15%;
+bottom: 18.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.93%;
+right: 46.82%;
+top: 47.18%;
+bottom: 18.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.41%;
+right: 47.85%;
+top: 13.28%;
+bottom: 46.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.37%;
+right: 43.82%;
+top: 25.24%;
+bottom: 22.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.51%;
+right: 44.69%;
+top: 25.13%;
+bottom: 22.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.94%;
+right: 44.8%;
+top: 46.99%;
+bottom: 18.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.49%;
+right: 43.26%;
+top: 47.01%;
+bottom: 18.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.97%;
+right: 44.29%;
+top: 13.06%;
+bottom: 46.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.94%;
+right: 40.26%;
+top: 25.07%;
+bottom: 22.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.07%;
+right: 41.13%;
+top: 24.96%;
+bottom: 22.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 57.5%;
+right: 41.24%;
+top: 46.82%;
+bottom: 18.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.05%;
+right: 39.7%;
+top: 46.79%;
+bottom: 18.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 58.54%;
+right: 40.73%;
+top: 12.89%;
+bottom: 46.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.5%;
+right: 36.7%;
+top: 24.85%;
+bottom: 22.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.64%;
+right: 37.56%;
+top: 24.74%;
+bottom: 22.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.07%;
+right: 37.68%;
+top: 46.6%;
+bottom: 19.13%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.61%;
+right: 36.13%;
+top: 46.62%;
+bottom: 19.02%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.1%;
+right: 37.16%;
+top: 12.72%;
+bottom: 46.92%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.06%;
+right: 33.13%;
+top: 24.68%;
+bottom: 22.79%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.2%;
+right: 34%;
+top: 24.57%;
+bottom: 22.68%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.63%;
+right: 34.12%;
+top: 46.43%;
+bottom: 19.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 66.18%;
+right: 32.57%;
+top: 46.45%;
+bottom: 19.19%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.66%;
+right: 33.6%;
+top: 12.5%;
+bottom: 47.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.62%;
+right: 29.57%;
+top: 24.51%;
+bottom: 22.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.76%;
+right: 30.44%;
+top: 24.35%;
+bottom: 22.9%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.19%;
+right: 30.55%;
+top: 46.21%;
+bottom: 19.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.74%;
+right: 29.01%;
+top: 46.23%;
+bottom: 19.41%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.23%;
+right: 30.04%;
+top: 12.33%;
+bottom: 47.3%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.19%;
+right: 26.01%;
+top: 24.29%;
+bottom: 23.18%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.32%;
+right: 26.87%;
+top: 24.18%;
+bottom: 23.07%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 71.75%;
+right: 26.99%;
+top: 46.04%;
+bottom: 19.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 73.3%;
+right: 25.45%;
+top: 46.06%;
+bottom: 19.58%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 72.79%;
+right: 26.48%;
+top: 12.11%;
+bottom: 47.53%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.75%;
+right: 22.45%;
+top: 24.13%;
+bottom: 23.35%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.89%;
+right: 23.31%;
+top: 23.96%;
+bottom: 23.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.32%;
+right: 23.43%;
+top: 45.82%;
+bottom: 19.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.86%;
+right: 21.88%;
+top: 45.84%;
+bottom: 19.8%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 76.35%;
+right: 22.91%;
+top: 11.94%;
+bottom: 47.69%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.31%;
+right: 18.88%;
+top: 23.9%;
+bottom: 23.57%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.45%;
+right: 19.75%;
+top: 23.79%;
+bottom: 23.46%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.88%;
+right: 19.87%;
+top: 45.65%;
+bottom: 20.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 80.43%;
+right: 18.32%;
+top: 45.67%;
+bottom: 19.97%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.91%;
+right: 19.35%;
+top: 11.78%;
+bottom: 47.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.87%;
+right: 15.32%;
+top: 23.74%;
+bottom: 23.74%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.01%;
+right: 16.19%;
+top: 23.62%;
+bottom: 23.62%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 82.44%;
+right: 16.3%;
+top: 45.49%;
+bottom: 20.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.99%;
+right: 14.76%;
+top: 45.51%;
+bottom: 20.14%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.48%;
+right: 15.79%;
+top: 11.55%;
+bottom: 48.08%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.44%;
+right: 11.76%;
+top: 23.51%;
+bottom: 23.96%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86.57%;
+right: 12.63%;
+top: 23.4%;
+bottom: 23.85%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 86%;
+right: 12.74%;
+top: 45.26%;
+bottom: 20.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.55%;
+right: 11.2%;
+top: 45.29%;
+bottom: 20.36%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 87.04%;
+right: 12.23%;
+top: 11.39%;
+bottom: 48.25%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91%;
+right: 8.2%;
+top: 23.35%;
+bottom: 24.12%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.14%;
+right: 9.06%;
+top: 23.23%;
+bottom: 24.01%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 89.57%;
+right: 9.18%;
+top: 45.1%;
+bottom: 20.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 91.11%;
+right: 7.64%;
+top: 45.12%;
+bottom: 20.52%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 90.6%;
+right: 8.67%;
+top: 11.17%;
+bottom: 48.47%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.56%;
+right: 4.63%;
+top: 23.18%;
+bottom: 24.29%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.7%;
+right: 5.5%;
+top: 23.01%;
+bottom: 24.23%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.13%;
+right: 5.61%;
+top: 44.87%;
+bottom: 20.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.68%;
+right: 4.07%;
+top: 44.9%;
+bottom: 20.75%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 94.16%;
+right: 5.1%;
+top: 11%;
+bottom: 48.64%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.12%;
+right: 1.07%;
+top: 22.96%;
+bottom: 24.51%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.26%;
+right: 1.94%;
+top: 22.85%;
+bottom: 24.4%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 96.69%;
+right: 2.05%;
+top: 44.71%;
+bottom: 21.03%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 98.24%;
+right: 0.51%;
+top: 44.73%;
+bottom: 20.91%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Vector */
+
+position: absolute;
+left: 97.72%;
+right: 1.54%;
+top: 10.78%;
+bottom: 48.86%;
+
+/* Maroon */
+background: #5F0409;
+
+
+/* Group 39535 */
+
+position: absolute;
+left: 23.35%;
+right: 20.17%;
+top: 24.87%;
+bottom: 24.87%;
+
+
+
+/* Group 39534 */
+
+position: absolute;
+left: 23.35%;
+right: 20.17%;
+top: 24.87%;
+bottom: 24.87%;
+
+
+
+/* Group 39536 */
+
+position: absolute;
+left: 23.35%;
+right: 20.17%;
+top: 24.87%;
+bottom: 24.87%;
+
+
+
+/* Azzadi 1 */
+
+position: absolute;
+left: 23.35%;
+right: 68.4%;
+top: 24.87%;
+bottom: 24.87%;
+
+background: url(Azzadi.png);
+
+
+/* bottom4 1 */
+
+position: absolute;
+left: 50.47%;
+right: 36.25%;
+top: 30.57%;
+bottom: 33.68%;
+
+background: url(bottom4.png);
+
+
+/* image 4 */
+
+position: absolute;
+left: 34.39%;
+right: 52.33%;
+top: 30.57%;
+bottom: 33.68%;
+
+background: url(image.png);
+
+
+/* bottom2 1 */
+
+position: absolute;
+left: 66.55%;
+right: 20.17%;
+top: 30.57%;
+bottom: 33.68%;
+
+background: url(bottom2.png);
