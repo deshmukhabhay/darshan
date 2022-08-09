@@ -1,0 +1,191 @@
+.rect_33 {
+    /* Rectangle 33 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 41.52%;
+    background: #65050B;
+    width: 1512px;
+}
+
+.rect_4501 {
+    /* Rectangle 4501 */
+    box-sizing: border-box;
+    position: absolute;
+    width: 980px;
+    height: 75px;
+    left: 266px;
+    top: 140px;
+    background: #FFF1E3;
+    border: 2px solid #6D3502;
+    border-radius: 85px;
+}
+
+.search_icon {
+    /* Vector */
+    position: absolute;
+    left: 5%;
+    right: 78.37%;
+    top: 30px;
+    bottom: 93.2%;
+
+}
+
+.search_text {
+    /* Search a place */
+    position: absolute;
+    width: 141px;
+    height: 20px;
+    left: 357px;
+    top: 169px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    /* identical to box height, or 20px */
+    color: #6D3502;
+}
+
+.state {
+    position: absolute;
+    width: 293px;
+    height: 51px;
+    left: 266px;
+    top: 235px;
+}
+
+.group_39560 {
+    /* Group 39560 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.rect_4502 {
+    /* box-sizing: border-box; */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFF1E3;
+    border: 1px solid #6D3502;
+    border-radius: 85px;
+}
+
+.filter_state {
+    /* Filter State */
+    position: absolute;
+    left: 6.83%;
+    right: 64.51%;
+    top: 35.29%;
+    bottom: 33.33%;
+
+    /* Button Medium */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    /* identical to box height, or 16px */
+    color: #6D3502;
+}
+
+.state_vector {
+    position: absolute;
+    left: 88.35%;
+    right: 8.83%;
+    top: 42.75%;
+    bottom: 43.79%;
+
+    color: #6D3502;
+}
+
+.site {
+    /* Type of site filter */
+    position: absolute;
+    width: 319px;
+    height: 51px;
+    left: 584px;
+    top: 235px;
+}
+
+.date_filter {
+    /* Select Date */
+    position: absolute;
+    width: 312px;
+    height: 190px;
+    left: 929px;
+    top: 96px;
+
+}
+
+.group_39590 {
+    /* Group 39590 */
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 73.68%;
+    bottom: 0%;
+}
+
+.rect_4504 {
+    /* Rectangle 4504 */
+    box-sizing: border-box;
+    height: 100%;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    /* top: 73.68%; */
+    bottom: 0%;
+
+    background: #FFF1E3;
+    border: 2px solid #6D3502;
+    border-radius: 85px;
+}
+
+.date_filter_text {
+    /* Text */
+    position: absolute;
+    left: 16.16%;
+    right: 83.84%;
+    top: 34%;
+    /* bottom: 8.61%; */
+
+    /* Button Medium */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    /* identical to box height, or 16px */
+
+
+    color: #6D3502;
+}
+
+.date_filter_datewise {
+    /* Datewise */
+    position: absolute;
+    left: 6.41%;
+    right: 70.19%;
+    top: 82.63%;
+    bottom: 8.95%;
+
+    /* Button Medium */
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    /* identical to box height, or 16px */
+
+
+    color: #6D3502;
+}
