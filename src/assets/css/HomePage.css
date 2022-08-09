@@ -18,7 +18,21 @@
     background: url("../images/Dharohar_Darshan_website_1.png");
 }
 
+.container4{
+   /* Dharohar Darshan website 1 */
+    position: absolute;
+    width: 1512px;
+    height: 2652px;
+    left: -84px;
+    top: -1px;
+    background: url("../images/Dharohar_Darshan_website_1.png");
+}
 
+.panel{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 150px;
+}
 /* .container2 {
     position: absolute;
     width: 1512px;

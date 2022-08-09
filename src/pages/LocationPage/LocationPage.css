@@ -1,0 +1,33 @@
+.vector {
+    /* Vector */
+    position: absolute;
+    left: 10.98%;
+    right: 88.25%;
+    top: 4.61%;
+    bottom: 94.75%;
+
+    /* Maroon */
+    background: #5F0409;
+}
+
+.banner_text {
+    /* Somnath Temple */
+    position: absolute;
+    width: 322px;
+    height: 62px;
+    left: 595px;
+    top: 121px;
+
+    font-family: 'Crimson Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 62px;
+    display: flex;
+    align-items: center;
+
+    /* Maroon */
+
+    color: #5F0409;
+
+}
