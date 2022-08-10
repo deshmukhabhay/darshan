@@ -1,0 +1,1137 @@
+.container {
+    position: relative;
+    width: 1512px;
+    height: 2652px;
+
+    background: #ffffff;
+}
+
+.container2 {
+    position: absolute;
+    width: 1512px;
+    height: 2824px;
+    left: 0px;
+    top: 0px;
+    background: url("../images/Dharohar_Darshan_website_1.png");
+}
+
+.image_carousel {
+    position: absolute;
+    width: 1514.4px;
+    height: 891px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.92;
+}
+
+.carousel {
+    position: absolute;
+    width: 3034px;
+    height: 891px;
+    left: -1520px;
+    top: 0px;
+}
+
+.image {
+    position: absolute;
+    width: 1514px;
+    height: 891px;
+    left: 0px;
+    top: 0px;
+    background: url("../images/homepage.png");
+}
+
+.frame_39615 {
+    /* Frame 39615 */
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+
+    position: absolute;
+    width: 1532px;
+    height: 901px;
+    left: -10px;
+    top: -10px;
+}
+
+.rect_4542 {
+    position: absolute;
+    width: 1512px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(180deg, #65050b 0%, rgba(101, 5, 11, 0) 100%);
+    mix-blend-mode: multiply;
+    opacity: 0.9;
+}
+
+.rect_4540 {
+    /* Rectangle 4540 */
+    width: 1512px;
+    height: 1625px;
+    background: linear-gradient(180deg, #65050b 0%, rgba(101, 5, 11, 0) 100%);
+    mix-blend-mode: multiply;
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.rect_4538 {
+    position: absolute;
+    width: 1512px;
+    height: 831px;
+    left: 0px;
+    top: 2px;
+    background: linear-gradient(180deg,
+            rgba(101, 5, 11, 0.13) 0%,
+            rgba(101, 5, 11, 0) 100%);
+    mix-blend-mode: multiply;
+}
+
+.ellipse_153 {
+    /* Ellipse 153 */
+    position: absolute;
+    width: 2485px;
+    height: 908px;
+    left: -486px;
+    top: -17px;
+
+    mix-blend-mode: multiply;
+    opacity: 0.5;
+}
+
+.rect_4541 {
+    /* Rectangle 4541 */
+    position: absolute;
+    width: 1512px;
+    height: 130px;
+    left: 0px;
+    top: 621px;
+}
+
+.carousel_text {
+    position: absolute;
+    width: 1167px;
+    height: 50px;
+    left: 173px;
+    top: 169px;
+
+    font-family: "El Messiri";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 100px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+
+    /* Off yellow */
+
+    color: #fff2d8;
+
+    text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.header1 {
+    position: absolute;
+    width: 1512px;
+    height: 93px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(180deg, #65050b 0%, rgba(101, 5, 11, 0) 100%);
+    mix-blend-mode: multiply;
+    opacity: 0.9;
+}
+
+.DharoharDarshan {
+    position: absolute;
+    width: 36px;
+    height: 38.15px;
+    left: 166px;
+    top: 28px;
+}
+
+.DharoharDarshanText {
+    /* Dharohar Darshan */
+    position: absolute;
+    width: 175px;
+    height: 32px;
+    left: 212px;
+    top: 32px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 31px;
+    /* or 155% */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.HomeText {
+    /* Home */
+    position: absolute;
+    width: 56px;
+    height: 26px;
+    left: 516px;
+    top: 37px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.MapViewText {
+    /* Map View */
+    position: absolute;
+    width: 92px;
+    height: 26px;
+    left: 621px;
+    top: 37px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.AboutText {
+    /* About */
+    position: absolute;
+    width: 59px;
+    height: 26px;
+    left: 759px;
+    top: 37px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.DiscoverText {
+    /* Discover */
+    position: absolute;
+    width: 83px;
+    height: 26px;
+    left: 864px;
+    top: 37px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.BlogText {
+    /* Blog */
+    position: absolute;
+    width: 40px;
+    height: 26px;
+    left: 993px;
+    top: 37px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    /* Off yellow */
+    color: #fff2d8;
+}
+
+.EnglishText {
+    /* English */
+    position: absolute;
+    left: 0%;
+    right: 32.99%;
+    top: 0%;
+    bottom: 80.6%;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    color: #ffffff;
+}
+
+.LanguageDropdown {
+    /* Language */
+    position: absolute;
+    width: 97px;
+    height: 134px;
+    left: 1258px;
+    top: 37px;
+}
+
+.Vector {
+    width: 7px;
+    height: 12px;
+    background: #ffffff;
+    transform: rotate(-90deg);
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-size: 30px;
+}
+
+.LanguageVector {
+    /* Frame 39601 */
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+
+    position: absolute;
+    left: 67.01%;
+    right: 0%;
+    top: 6%;
+    bottom: 0%;
+}
+
+.what_is_dharohar_text {
+    /* What is Dharohar Darshan */
+    position: absolute;
+    width: 454px;
+    height: 47px;
+    left: 529px;
+    top: 279px;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+    color: #fff1e3;
+}
+
+.dtext2 {
+    position: absolute;
+    width: 1036px;
+    height: 84px;
+    left: 238px;
+    top: 356px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* or 117% */
+
+    text-align: center;
+
+    color: #ffe7d1;
+}
+
+.dtext3 {
+    position: absolute;
+    width: 1036px;
+    height: 140px;
+    left: 238px;
+    top: 470px;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    /* or 117% */
+    text-align: center;
+    color: #ffe7d1;
+}
+
+.rect_39360 {
+    /* Group 39630 */
+    position: absolute;
+    width: 628px;
+    height: 83px;
+    left: 442px;
+    top: 650px;
+}
+
+.group_39530 {
+    /* Group 39530 */
+    position: absolute;
+    width: 86px;
+    height: 83px;
+    left: 984px;
+    top: 650px;
+}
+
+.group_39531 {
+    /* Group 39531 */
+    position: absolute;
+    width: 146px;
+    height: 83px;
+    left: 788px;
+    top: 650px;
+}
+
+.group_39532 {
+    /* Group 39532 */
+    position: absolute;
+    width: 121px;
+    height: 83px;
+    left: 617px;
+    top: 650px;
+}
+
+.group_39533 {
+    /* Group 39533 */
+    position: absolute;
+    width: 125px;
+    height: 83px;
+    left: 442px;
+    top: 650px;
+}
+
+.counter_text {
+    position: absolute;
+    width: 95px;
+    height: 47px;
+    left: 457px;
+    top: 650px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.counter_text1 {
+    /* 200+ */
+    position: absolute;
+    width: 93px;
+    height: 47px;
+    left: 633px;
+    top: 650px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.counter_text2 {
+    /* 200+ */
+    position: absolute;
+    width: 82px;
+    height: 47px;
+    left: 819px;
+    top: 650px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.counter_text3 {
+    /* 200+ */
+    position: absolute;
+    width: 86px;
+    height: 47px;
+    left: 984px;
+    top: 650px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.sites_text {
+    /* Cultural sites */
+
+    position: absolute;
+    width: 125px;
+    height: 26px;
+    left: 442px;
+    top: 707px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.sites_text1 {
+    /* Natural Sites */
+
+    position: absolute;
+    width: 121px;
+    height: 26px;
+    left: 617px;
+    top: 707px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.sites_text2 {
+    /* Protected Sites */
+
+    position: absolute;
+    width: 146px;
+    height: 26px;
+    left: 788px;
+    top: 707px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+.sites_text3 {
+    /* Temples */
+
+    position: absolute;
+    width: 80px;
+    height: 26px;
+    left: 987px;
+    top: 707px;
+
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #ffe6ce;
+}
+
+
+.visit_now {
+    /* Frame 39564 */
+
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 80px;
+    gap: 10px;
+
+    position: absolute;
+    /* width: 293px;
+    height: 68px; */
+    left: 610px;
+    top: 773px;
+
+    background: #EC4E20;
+    box-shadow: inset 3px 4px 4px #FF993A;
+    border-radius: 81px;
+}
+
+.visit_now_text {
+    /* Visit now */
+
+
+    width: 133px;
+    height: 28px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    /* identical to box height, or 93% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.group_39642 {
+    position: absolute;
+    width: 1507.76px;
+    height: 18px;
+    left: 2px;
+    top: 84px;
+}
+
+.group_39641 {
+    /* Group 39641 */
+
+
+    position: absolute;
+    width: 454.13px;
+    height: 18px;
+    /* left: 2px;
+top: 84px; */
+
+}
+
+.group_39640 {
+    /* Group 39640 */
+
+
+    position: absolute;
+    width: 454.13px;
+    height: 18px;
+    left: 452.13px;
+    top: 84px;
+
+}
+
+.group_39639 {
+    /* Group 39639 */
+
+
+    position: absolute;
+    width: 607.5px;
+    height: 18px;
+    left: 902.27px;
+    top: 84px;
+}
+
+.group1 {
+    position: absolute;
+    left: 30.17%;
+    right: 68.64%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group2 {
+    position: absolute;
+    left: 26.79%;
+    right: 72.02%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group3 {
+    position: absolute;
+    left: 23.41%;
+    right: 75.4%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+
+}
+
+.group4 {
+    position: absolute;
+    left: 20.03%;
+    right: 78.78%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group5 {
+    position: absolute;
+    left: 16.65%;
+    right: 82.16%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group6 {
+
+    position: absolute;
+    left: 13.27%;
+    right: 85.54%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group7 {
+    position: absolute;
+    left: 9.89%;
+    right: 88.92%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+
+}
+
+.group8 {
+    position: absolute;
+    left: 6.51%;
+    right: 92.3%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group9 {
+    position: absolute;
+    left: 3.13%;
+    right: 95.68%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+
+.group11 {
+    position: absolute;
+    left: 59.94%;
+    right: 38.87%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group12 {
+    position: absolute;
+    left: 56.56%;
+    right: 42.25%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group13 {
+    position: absolute;
+    left: 53.18%;
+    right: 45.63%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group14 {
+    position: absolute;
+    left: 49.8%;
+    right: 49.01%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group15 {
+    position: absolute;
+    left: 46.42%;
+    right: 52.39%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group16 {
+
+    position: absolute;
+    left: 43.04%;
+    right: 55.77%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group17 {
+    position: absolute;
+    left: 39.66%;
+    right: 59.15%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group18 {
+    position: absolute;
+    left: 36.28%;
+    right: 62.53%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group19 {
+    position: absolute;
+    left: 32.9%;
+    right: 65.91%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+
+.group31 {
+    position: absolute;
+    left: 99.85%;
+    right: -1.04%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group32 {
+    position: absolute;
+    left: 96.5%;
+    right: 2.31%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group33 {
+    position: absolute;
+    left: 93.11%;
+    right: 5.7%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group34 {
+    position: absolute;
+    left: 89.71%;
+    right: 9.1%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group35 {
+    position: absolute;
+    left: 86.33%;
+    right: 12.48%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group36 {
+
+    position: absolute;
+    left: 82.95%;
+    right: 15.86%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group37 {
+    position: absolute;
+    left: 79.57%;
+    right: 19.24%;
+    top: 3.17%;
+    bottom: 95.12%;
+
+}
+
+.group38 {
+    position: absolute;
+    left: 76.19%;
+    right: 22.62%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group39 {
+    position: absolute;
+    left: 72.81%;
+    right: 26%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group40 {
+    position: absolute;
+    left: 69.43%;
+    right: 29.38%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group41 {
+    position: absolute;
+    left: 66.05%;
+    right: 32.76%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group42 {
+    position: absolute;
+    left: 62.67%;
+    right: 36.14%;
+    top: 3.17%;
+    bottom: 95.12%;
+}
+
+.group_39643 {
+    /* Group 39643 */
+
+
+    position: absolute;
+    width: 504px;
+    height: 18px;
+    left: 4px;
+    top: 293px;
+}
+
+.group_39643 {
+    /* Group 39643 */
+    position: absolute;
+    width: 504px;
+    height: 18px;
+    left: 4px;
+    top: 293px;
+}
+
+.group_39632 {
+    /* Group 39632 */
+
+
+    position: absolute;
+    width: 504px;
+    height: 18px;
+    left: 1004px;
+    top: 293px;
+}
+
+
+.todays_darshan {
+    /* Today’s Darshan */
+    position: absolute;
+    width: 285px;
+    height: 47px;
+    left: 614px;
+    top: 921px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    /* identical to box height */
+    /* Maroon */
+    color: #5F0409;
+}
+
+.todays_darshan_text {
+    /* See what happened today in History */
+    position: absolute;
+    width: 580px;
+    height: 28px;
+    left: 466px;
+    top: 998px;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    /* identical to box height, or 127% */
+    text-align: center;
+    /* Maroon */
+    color: #5F0409;
+}
+
+.group_39680 {
+    /* Group 39680 */
+    position: absolute;
+    width: 1505.33px;
+    height: 515px;
+    left: 4px;
+    top: 1479px;
+}
+
+.group_39645 {
+    /* Group 39645 */
+
+
+    position: absolute;
+    width: 577.33px;
+    height: 18px;
+    left: 4px;
+    top: 935px;
+
+}
+
+.group_39644 {
+    /* Group 39644 */
+    position: absolute;
+    width: 577.33px;
+    height: 18px;
+    left: 932px;
+    top: 935px;
+
+
+}
+
+.todays_darshan_parent{
+    left: 166px;
+    top: 1057px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+
+}
+
+.frame_39600 {
+    /* Frame 39600 */
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+    width: 280px;
+    height: 382px;
+    padding: 10px;
+}
+
+.rectange_30 {
+    background-size: contain;
+    /* Rectangle 30 */
+    width: 280px;
+    height: 280px;
+
+    border-radius: 16px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.vellore_text {
+    /* Vellore Fort */
+    width: 119px;
+    height: 28px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 28px;
+    /* identical to box height, or 127% */
+
+    text-align: center;
+
+    /* Maroon */
+
+    color: #5F0409;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.frame_39581 {
+    /* Frame 39581 */
+
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 50px;
+    gap: 10px;
+
+    width: 189px;
+    height: 44px;
+
+    /* Maroon */
+
+    border: 2px solid #5F0409;
+    border-radius: 59px;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.read_more {
+    /* Read more */
+
+
+    width: 89px;
+    height: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+
+    /* Maroon */    
+
+    color: #5F0409;
+
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
