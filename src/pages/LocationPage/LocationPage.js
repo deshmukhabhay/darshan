@@ -4,6 +4,7 @@ import Header2 from "../../components/Header2";
 
 import "../../assets/css/HomePage.css";
 import { BiChevronLeft } from "react-icons/bi";
+import { GiShare } from "react-icons/gi";
 import ReactPannellum, { getConfig } from "react-pannellum";
 import Img from "../../assets/images/somnath-temple-banner.jpeg";
 import Group1 from "../../assets/images/Group1.png";
@@ -26,7 +27,9 @@ export default function LocationPage() {
       <div className={"container3"}></div>
       <Header2 />
       <div className={"banner_text"}>Somnath Temple</div>
-      <BiChevronLeft className={"vector"} />
+      <BiChevronLeft className={"vector3"} />
+      <GiShare className={"share3"} />
+
       <div className={"group_39603"}>
         <ReactPannellum
           id="1"

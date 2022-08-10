@@ -1,13 +1,18 @@
-.vector {
+.vector3 {
     /* Vector */
     position: absolute;
-    left: 10.98%;
+    left: 11.98%;
     right: 88.25%;
-    top: 4.61%;
+    top: 154px;
     bottom: 94.75%;
+}
 
-    /* Maroon */
-    background: #5F0409;
+.share3{
+    position: absolute;
+    left: 93.5%;
+    right: 12.5%;
+    top: 154px;
+    bottom: 8.67%;
 }
 
 .banner_text {
@@ -70,7 +75,7 @@
     height: 180px;
     left: 166px;
     top: 972px;
-    /* overflow-x: scroll; */
+    overflow: hidden; /* Hide scrollbars */
 }
 
 .group_39607 {
