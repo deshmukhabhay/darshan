@@ -60,6 +60,10 @@ self.__precacheManifest = [
     "url": "./static/media/Rectangle26.35f74373.png"
   },
   {
+    "revision": "4dacddf4eb035acba6bb6d127ccf69a3",
+    "url": "./static/media/Rectangle28.4dacddf4.png"
+  },
+  {
     "revision": "066f6ca3a6b75fe9f7ffe6729d9aae33",
     "url": "./static/media/Rectangle27.066f6ca3.png"
   },
@@ -68,20 +72,16 @@ self.__precacheManifest = [
     "url": "./static/media/Rectangle29.7f7f65f6.png"
   },
   {
-    "revision": "4dacddf4eb035acba6bb6d127ccf69a3",
-    "url": "./static/media/Rectangle28.4dacddf4.png"
-  },
-  {
-    "revision": "abd2cca5a6e7e825f0f51b603747c5a4",
-    "url": "./static/media/Rectangle4487.abd2cca5.png"
-  },
-  {
     "revision": "c6c168c965375b30b88f288474c984a5",
     "url": "./static/media/Rectangle32.c6c168c9.png"
   },
   {
     "revision": "c501e205e31d1c6899ad464fd3ca9e7f",
     "url": "./static/media/Rectangle35.c501e205.png"
+  },
+  {
+    "revision": "abd2cca5a6e7e825f0f51b603747c5a4",
+    "url": "./static/media/Rectangle4487.abd2cca5.png"
   },
   {
     "revision": "d2c255d8633d0b7e9bd4508cb079938e",
