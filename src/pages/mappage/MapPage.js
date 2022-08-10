@@ -33,7 +33,7 @@ export default function MapPage() {
                     <div className={"group_39596_text"}>Someshwar temple</div>
                     <div className={"group_39596_text2"}>Gujarat</div>
                   </div>
-                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location", { state: "Someshwar temple" })}>View now ></div>
                 </div>
               </div>
             </div>
@@ -44,10 +44,10 @@ export default function MapPage() {
               <div className={"rect_4527"}>
                 <div className={"rect_4528"}>
                   <div className={"group_39596"}>
-                    <div className={"group_39596_text"}>Someshwar temple</div>
-                    <div className={"group_39596_text2"}>Karnataka</div>
+                    <div className={"group_39596_text"}>Ganpati Temple</div>
+                    <div className={"group_39596_text2"}>Maharashtra</div>
                   </div>
-                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location", { state: "Ganpati Temple" })}>View now ></div>
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@ export default function MapPage() {
                     <div className={"group_39596_text"}>Site of Sahet</div>
                     <div className={"group_39596_text2"}>UP</div>
                   </div>
-                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location", { state: "Site of Sahet" })}>View now ></div>
                 </div>
               </div>
             </div>

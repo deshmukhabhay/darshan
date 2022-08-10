@@ -300,6 +300,7 @@
     flex: none;
     order: 0;
     flex-grow: 0;
+    font-size: 30px;
 }
 
 .LanguageVector {
@@ -308,14 +309,13 @@
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    padding: 10px;
     gap: 10px;
 
     position: absolute;
     left: 67.01%;
     right: 0%;
-    top: 0%;
-    bottom: 79.85%;
+    top: 6%;
+    bottom: 0%;
 }
 
 .what_is_dharohar_text {
@@ -1039,11 +1039,11 @@ top: 84px; */
 }
 
 .rectange_30 {
+    background-size: contain;
     /* Rectangle 30 */
     width: 280px;
     height: 280px;
 
-    border: 3.72857px solid rgba(255, 255, 255, 0.54);
     border-radius: 16px;
 
     /* Inside auto layout */

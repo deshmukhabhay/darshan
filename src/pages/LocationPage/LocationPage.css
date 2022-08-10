@@ -5,11 +5,12 @@
     right: 88.25%;
     top: 154px;
     bottom: 94.75%;
+    font-size: 30px;
 }
 
 .share3{
     position: absolute;
-    left: 93.5%;
+    left: 92.5%;
     right: 12.5%;
     top: 154px;
     bottom: 8.67%;
@@ -20,7 +21,6 @@
 
 
     position: absolute;
-    width: 362px;
     height: 62px;
     left: 595px;
     top: 121px;
@@ -47,6 +47,11 @@
     left: 166px;
     top: 213px;
 
+}
+
+.pnlm-container {
+    border-radius: 9px;
+    box-shadow: 0px 76px 221px rgba(0, 0, 0, 0.07), 0px 30.441px 92.3285px rgba(0, 0, 0, 0.0348285), 0px 15.4093px 49.3632px rgba(0, 0, 0, 0.0269704), 0px 8.08495px 27.6726px rgba(0, 0, 0, 0.0228977), 0px 3.96141px 14.6967px rgba(0, 0, 0, 0.0198035), 0px 1.49672px 6.11564px rgba(0, 0, 0, 0.0154532);
 }
 
 .rect_25 {

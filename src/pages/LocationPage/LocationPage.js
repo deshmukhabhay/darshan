@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Footer from "../../components/Footer";
 import Header2 from "../../components/Header2";
 
@@ -7,11 +7,19 @@ import { BiChevronLeft } from "react-icons/bi";
 import { GiShare } from "react-icons/gi";
 import ReactPannellum, { getConfig } from "react-pannellum";
 import Img from "../../assets/images/somnath-temple-banner.jpeg";
+import Img2 from "../../assets/images/pexels-pixabay-358482.jpg";
 import Group1 from "../../assets/images/Group1.png";
 import EllipseFacts from "../../assets/images/Ellipse150.png";
 import "./LocationPage.css";
+import { useLocation } from "react-router-dom";
 
 export default function LocationPage() {
+
+  useEffect(() => {
+    const Element = document.getElementsByClassName('container3')
+    if (Element.length) Element[0].scrollIntoView()
+  }, [])
+  
   const click = () => {
     console.log(getConfig());
   };
@@ -19,14 +27,18 @@ export default function LocationPage() {
   const config = {
     autoRotate: -2,
     autoLoad: true,
-    showZoomCtrl: true,
+    showZoomCtrl: false,
+    doubleClickZoom: true,
+    startAutoRotate: false
   };
+
+  const { state } = useLocation();
 
   return (
     <div>
       <div className={"container3"}></div>
       <Header2 />
-      <div className={"banner_text"}>Somnath Temple</div>
+      <div className={"banner_text"}>{state || ""}</div>
       <BiChevronLeft className={"vector3"} />
       <GiShare className={"share3"} />
 
@@ -38,7 +50,7 @@ export default function LocationPage() {
             height:"100%"
           }}
           sceneId="firstScene"
-          imageSource={Img}
+          imageSource={state == 'Ganpati Temple' ? Img : Img2}
           config={config}
         />
       </div>

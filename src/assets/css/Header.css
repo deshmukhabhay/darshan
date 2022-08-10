@@ -1,9 +1,10 @@
 .rect_33 {
     /* Rectangle 33 */
-    position: absolute;
+    position: fixed;
     left: 0%;
     right: 0%;
     top: 0%;
+    z-index: 9;
     bottom: 41.52%;
     background: #65050B;
     width: 1512px;

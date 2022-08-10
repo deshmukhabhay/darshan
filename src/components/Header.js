@@ -12,7 +12,7 @@ export default function Header(props) {
         <img className={"DharoharDarshan"} src={Darshan} />
         <span className={"DharoharDarshanText"}>Dharohar Darshan</span>
       </div>
-      <span className={"HomeText"}>Home</span>
+      <span className={"HomeText"}  onClick={()=> navigate("/")} >Home</span>
       <span className={"MapViewText"} onClick={()=> navigate("/mappage")}>Map View</span>
       <span className={"AboutText"}>About</span>
       <span className={"DiscoverText"}>Discover</span>
