@@ -137,8 +137,10 @@
     top: 1235px; */
     margin: 16px;
     margin-right: 0px;
-    background-image: url("https://s3-alpha-sig.figma.com/img/2e62/be03/4ab3f1a15df410e3901f7178cd0f10d3?Expires=1661126400&Signature=GFely8yp0sDMTsRiBdDSbLv~v2KyFOMkL8vR3Q8K985~bD7edeZhlg2lPJx27N27yTYx4as26kFD2pRovXVEqG-y2gRqm2Z0CRmWVEkZT1gzYznC2QSl2FD06Un9uQPCYr-ljgsQdSa4bZzvvDGU4qwn8sPIp~5NICxigV-41yCmNvXCXlGJkwmf6wl~wzalnvdpYPm17nSFf3HdZqSbAx8erdOZ1qULEgr4pEYdSPtRUAM07R~wv26n8p11ZdsV2EBdGwZf5gv9hOYMRTgEp-ANYWQB~FV9XKQMkDLh4yxvYid8lXQAovjrUkxFaUyKyNNHh7zN7moA9OOnSRXgxA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA");
+    background-image: url("../../assets/images/site.jpeg");
     border-radius: 10px;
+    background-size: 120px;
+
 }
 
 .rect_4527 {

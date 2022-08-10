@@ -211,8 +211,11 @@ export default function LocationPage() {
       </div>
       {/* <div onClick={() => click()}>Click me</div> */}
       <div className={"rect_32"}></div>
+      <div className="site1">View Site</div>
       <div className={"rect_35"}></div>
+      <div className="site2">View Site</div>
       <div className={"rect_4487"}></div>
+      <div className="site3">View Site</div>
       <Footer page={"location"}/>
     </div>
   );

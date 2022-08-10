@@ -530,6 +530,7 @@
 
     background: #5F0409;
     border-radius: 42px;
+    cursor: pointer;
 }
 
 .frame_39603_text {
@@ -610,4 +611,64 @@
     background: url("../../assets/images/Rectangle4487.png");
     border: 3.72857px solid rgba(255, 255, 255, 0.54);
     border-radius: 16px;
+}
+
+.site1 {
+    position: absolute;
+    width: 119px;
+    height: 29px;
+    left: 298px;
+    top: 2385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    /* Maroon */
+    color: #5F0409;
+}
+
+.site2 {
+    position: absolute;
+    width: 140px;
+    height: 29px;
+    left: 708px;
+    top: 2385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    /* Maroon */
+
+    color: #5F0409;
+}
+
+.site3 {
+    /* Site Name 3 */
+
+
+    position: absolute;
+    width: 140px;
+    height: 29px;
+    left: 1122px;
+    top: 2385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    /* Maroon */
+
+    color: #5F0409;
 }
