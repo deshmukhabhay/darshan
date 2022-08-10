@@ -193,7 +193,7 @@ export default function LocationPage() {
         <img className={"group81"} src={Group1} />
         <img className={"group81"} src={Group1} />
       </div>
-      <div className="group_39646">
+      <div className="group2_39646">
         <img className={"group81"} src={Group1} />
         <img className={"group81"} src={Group1} />
         <img className={"group81"} src={Group1} />

@@ -7,8 +7,11 @@ import CompleteSearch from "../../components/CompleteSearch";
 import "./MapPage.css";
 import IndiaMap from "../../assets/images/India.png";
 import Group25 from "../../assets/images/Group25.png";
+import { useNavigate } from "react-router-dom";
 
 export default function MapPage() {
+  const navigate = useNavigate();
+
   return (
     <div>
       <div className={"container3"}></div>
@@ -30,7 +33,7 @@ export default function MapPage() {
                     <div className={"group_39596_text"}>Someshwar temple</div>
                     <div className={"group_39596_text2"}>Gujarat</div>
                   </div>
-                  <div className={"group_39664_view_now"}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
                 </div>
               </div>
             </div>
@@ -44,7 +47,7 @@ export default function MapPage() {
                     <div className={"group_39596_text"}>Someshwar temple</div>
                     <div className={"group_39596_text2"}>Karnataka</div>
                   </div>
-                  <div className={"group_39664_view_now"}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
                 </div>
               </div>
             </div>
@@ -58,7 +61,7 @@ export default function MapPage() {
                     <div className={"group_39596_text"}>Site of Sahet</div>
                     <div className={"group_39596_text2"}>UP</div>
                   </div>
-                  <div className={"group_39664_view_now"}>View now ></div>
+                  <div className={"group_39664_view_now"} onClick={()=>navigate("/location")}>View now ></div>
                 </div>
               </div>
             </div>
