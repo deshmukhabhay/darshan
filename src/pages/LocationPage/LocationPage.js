@@ -11,9 +11,11 @@ import Img2 from "../../assets/images/pexels-pixabay-358482.jpg";
 import Group1 from "../../assets/images/Group1.png";
 import EllipseFacts from "../../assets/images/Ellipse150.png";
 import "./LocationPage.css";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 
 export default function LocationPage() {
+
+  const navigate = useNavigate();
 
   useEffect(() => {
     const Element = document.getElementsByClassName('container3')
@@ -27,7 +29,7 @@ export default function LocationPage() {
   const config = {
     autoRotate: -2,
     autoLoad: true,
-    showZoomCtrl: false,
+    showZoomCtrl: true,
     doubleClickZoom: true,
     startAutoRotate: false
   };
@@ -39,7 +41,7 @@ export default function LocationPage() {
       <div className={"container3"}></div>
       <Header2 />
       <div className={"banner_text"}>{state || ""}</div>
-      <BiChevronLeft className={"vector3"} />
+      <BiChevronLeft className={"vector3"} onClick={()=> navigate("/mappage")} />
       <GiShare className={"share3"} />
 
       <div className={"group_39603"}>
