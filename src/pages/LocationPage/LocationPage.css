@@ -592,7 +592,7 @@
 
     background: url("../../assets/images/Rectangle32.png");
     mix-blend-mode: normal;
-    border: 3.72857px solid rgba(255, 255, 255, 0.54);
+    background-size: cover;
     border-radius: 16px;
 }
 
@@ -604,7 +604,7 @@
     top: 1955px;
 
     background: url("../../assets/images/Rectangle35.png");
-    border: 3.72857px solid rgba(255, 255, 255, 0.54);
+    background-size: cover;
     border-radius: 16px;
 }
 
@@ -619,7 +619,7 @@
     top: 1955px;
 
     background: url("../../assets/images/Rectangle4487.png");
-    border: 3.72857px solid rgba(255, 255, 255, 0.54);
+    background-size: cover;
     border-radius: 16px;
 }
 

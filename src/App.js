@@ -6,7 +6,7 @@ import MapPage from "./pages/mappage/MapPage";
 
 function App() {
   return (
-    <div >
+    <div className="container">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/mappage" element={<MapPage />} />
