@@ -1254,6 +1254,15 @@ top: 84px; */
     top: 2034px;
 }
 
+.footer2 {
+    /* Footer */
+    position: absolute;
+    width: 1512px;
+    height: 618px;
+    left: 0px;
+    top: 2440px;
+}
+
 .govt_logos {
     /* Govt. logos */
 

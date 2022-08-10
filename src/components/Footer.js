@@ -5,9 +5,10 @@ import { FaFacebookF, FaYoutube } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 
 
-export default function Footer() {
+export default function Footer(props) {
+  const {page} = props;
   return (
-    <div className={"footer"}>
+    <div className={page === "location" ? "footer2" : "footer"}>
       <div className={"govt_logos"}>
         <div>
           <div className={"partner1"}></div>
