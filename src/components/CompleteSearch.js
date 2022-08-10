@@ -45,6 +45,8 @@ export default function CompleteSearch() {
           <BsCaretDownFill className={"state_vector"} />
         </div>
       </div>
+
+      
     </div>
   );
 }
