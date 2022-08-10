@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/darshan/static/media/DharoharDarshan.6c9f9b25.png"
   },
   {
-    "revision": "b9320cd413db811cdf02d8a071575047",
-    "url": "/darshan/static/media/1.b9320cd4.png"
-  },
-  {
     "revision": "93e7d10b75c81568f3c72e426054d17a",
     "url": "/darshan/static/media/2.93e7d10b.png"
+  },
+  {
+    "revision": "b9320cd413db811cdf02d8a071575047",
+    "url": "/darshan/static/media/1.b9320cd4.png"
   },
   {
     "revision": "5fb3913cb6800dbcfc0483ac3f22ec35",
@@ -72,12 +72,12 @@ self.__precacheManifest = [
     "url": "/darshan/static/media/Rectangle27.066f6ca3.png"
   },
   {
-    "revision": "c501e205e31d1c6899ad464fd3ca9e7f",
-    "url": "/darshan/static/media/Rectangle35.c501e205.png"
-  },
-  {
     "revision": "c6c168c965375b30b88f288474c984a5",
     "url": "/darshan/static/media/Rectangle32.c6c168c9.png"
+  },
+  {
+    "revision": "c501e205e31d1c6899ad464fd3ca9e7f",
+    "url": "/darshan/static/media/Rectangle35.c501e205.png"
   },
   {
     "revision": "abd2cca5a6e7e825f0f51b603747c5a4",
