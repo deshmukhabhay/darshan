@@ -139,7 +139,8 @@
     margin-right: 0px;
     background-image: url("../../assets/images/site.jpeg");
     border-radius: 10px;
-    background-size: 120px;
+    /* background-size: 120px; */
+    background-size: cover;
 
 }
 
