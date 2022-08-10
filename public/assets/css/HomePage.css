@@ -1,4 +1,4 @@
-.container {
+.custom-container {
     position: relative;
     width: 1512px;
     height: 2652px;
@@ -6,7 +6,7 @@
     background: #ffffff;
 }
 
-.container2 {
+.custom-container2 {
     position: absolute;
     width: 1512px;
     height: 2824px;
@@ -121,7 +121,7 @@
     left: 173px;
     top: 169px;
 
-    font-family: "El Messiri";
+    font-family: "ElMessiriRegular";
     font-style: normal;
     font-weight: 700;
     font-size: 64px;
@@ -310,7 +310,7 @@
     flex-direction: column;
     align-items: flex-start;
     gap: 10px;
-
+    padding-left: 6px;
     position: absolute;
     left: 67.01%;
     right: 0%;

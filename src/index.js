@@ -4,7 +4,9 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
-
+import './assets/fonts/ElMessiri-Regular.ttf'
+import './assets/fonts/DMSans-Regular.ttf'
+import './assets/fonts/Poppins-Regular.ttf'
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>

@@ -10,8 +10,8 @@ import TodaysDarshan from "../../components/TodaysDarshan";
 export default function HomePage() {
   return (
     <div>
-      <div className={"container"}></div>
-      <div className={"container2"}></div>
+      <div className={"custom-container"}></div>
+      <div className={"custom-container2"}></div>
       <div className={"image_carousel"}></div>
       <div className={"image"}></div>
       <div className={"frame_39615"}>
