@@ -66,7 +66,8 @@ export default function AppHeader(props) {
     const theme = useTheme();
     const [open, setOpen] = React.useState(false);
 
-    const isPhone = useMediaQuery(theme.breakpoints.down("md"));
+    const isPhone = useMediaQuery(theme.breakpoints.down("sm"));
+    const isTab = useMediaQuery(theme.breakpoints.down("md"));
     let location = useLocation();
     const navigate = useNavigate();
 
@@ -107,28 +108,30 @@ export default function AppHeader(props) {
                     <IconButton color="inherit" aria-label="open drawer" onClick={handleDrawerOpen} edge="start" sx={{ mr: 2, ...(open && { display: "none" }) }}>
                         <MenuIcon />
                     </IconButton>
-                    <Stack spacing={2} justifyContent="space-between" alignItems="center" flex={1} direction="row" sx={{ paddingX: "60px" }}>
+                    <Stack spacing={2} justifyContent="space-between" alignItems="center" flex={1} direction="row" sx={{ paddingX: "24px" }}>
                         {!isPhone && (
-                            <Stack alignItems="center" spacing={2} direction="row">
+                            <>
                                 <Logo />
-                                <span className="router_link" onClick={() => navigate("/")} style={{ cursor: "pointer", marginLeft: "120px" }}>
-                                    Home
-                                </span>
-                                <span className="router_link" onClick={() => navigate("/mappage")} style={{ cursor: "pointer" }}>
-                                    Map View
-                                </span>
-                                <span className="router_link" style={{ cursor: "pointer" }}>
-                                    About
-                                </span>
-                                <span className="router_link" style={{ cursor: "pointer" }}>
-                                    Discover
-                                </span>
-                                <span className="router_link" style={{ cursor: "pointer" }}>
-                                    Blog
-                                </span>
-                            </Stack>
+                                <Stack alignItems="center" spacing={2} direction="row">
+                                    <span className="router_link" onClick={() => navigate("/")} style={{ cursor: "pointer" }}>
+                                        Home
+                                    </span>
+                                    <span className="router_link" onClick={() => navigate("/mappage")} style={{ cursor: "pointer" }}>
+                                        Map View
+                                    </span>
+                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                        About
+                                    </span>
+                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                        Discover
+                                    </span>
+                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                        Blog
+                                    </span>
+                                </Stack>
+                            </>
                         )}
-                        <CustomizedMenu />
+                        {!isTab && <CustomizedMenu />}
                     </Stack>
                 </Toolbar>
             </AppBar>
@@ -155,11 +158,9 @@ export default function AppHeader(props) {
                 <Divider />
                 <List>
                     {["Home", "Map View", "About", "Discover", "Blog"].map((text, index) => (
-                        <ListItem key={index} disablePadding onClick={index == 0 || index == 1 ? (index == 0 ? () => navigate("/") : () => navigate("/mappage")) : undefined} >
+                        <ListItem key={index} disablePadding onClick={index == 0 || index == 1 ? (index == 0 ? () => navigate("/") : () => navigate("/mappage")) : undefined}>
                             <ListItemButton>
-                                <ListItemIcon sx={{ color: "#fff" }}>
-                                    {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-                                </ListItemIcon>
+                                <ListItemIcon sx={{ color: "#fff" }}>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon>
                                 <ListItemText primary={text} />
                             </ListItemButton>
                         </ListItem>
