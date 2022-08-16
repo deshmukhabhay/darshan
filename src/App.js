@@ -1,19 +1,44 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import HomePage from "./pages/homepage/HomePage";
-import LocationPage from "./pages/LocationPage/LocationPage";
-import MapPage from "./pages/mappage/MapPage";
+
+import { ThemeProvider } from "@mui/material/styles";
+import { theme } from "./utilities/theme";
+import { ProgressLoader } from "./components/ProgressLoader";
 
 function App() {
-  return (
-    <div className="container">
-      <Routes>
-        <Route path="/" element={<HomePage />} />
-        <Route path="/mappage" element={<MapPage />} />
-        <Route path="/location" element={<LocationPage />} />
-      </Routes>
-    </div>
-  );
+    const HomePage = React.lazy(() => import("./pages/homepage/HomePage"));
+    const LocationPage = React.lazy(() => import("./pages/LocationPage/LocationPage"));
+    const MapPage = React.lazy(() => import("./pages/mappage/MapPage"));
+    return (
+        <ThemeProvider theme={theme}>
+            <Routes>
+                <Route
+                    path="/"
+                    element={
+                        <React.Suspense fallback={<ProgressLoader />}>
+                            <HomePage />
+                        </React.Suspense>
+                    }
+                />
+                <Route
+                    path="/mappage"
+                    element={
+                        <React.Suspense fallback={<ProgressLoader />}>
+                            <MapPage />
+                        </React.Suspense>
+                    }
+                />
+                <Route
+                    path="/location"
+                    element={
+                        <React.Suspense fallback={<ProgressLoader />}>
+                            <LocationPage />
+                        </React.Suspense>
+                    }
+                />
+            </Routes>
+        </ThemeProvider>
+    );
 }
 
 export default App;

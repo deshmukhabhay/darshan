@@ -1,30 +1,27 @@
 import React from "react";
-import "../../assets/css/HomePage.css";
-import CuratedList from "../../components/CuratedList";
+import { Box } from "@mui/material";
 
 import Footer from "../../components/Footer";
-import Header from "../../components/Header";
-import Hero from "../../components/Hero";
-import TodaysDarshan from "../../components/TodaysDarshan";
+import Hero from "./Hero";
+import BgImage from "../../assets/images/Dharohar_Darshan_website_1.png";
+
+import Fold from "./Fold";
+import Sponsor from "./Sponsor";
+import { TempleListOne, TempleListTwo } from "../../utilities/constants";
+import AppHeader from "../../components/AppHeader";
 
 export default function HomePage() {
-  return (
-    <div>
-      <div className={"custom-container"}></div>
-      <div className={"custom-container2"}></div>
-      <div className={"image_carousel"}></div>
-      <div className={"image"}></div>
-      <div className={"frame_39615"}>
-        <div className={"rect_4540"}></div>
-      </div>
-      <div className={"rect_4542"}></div>
-      <div className={"rect_4538"}></div>
-      {/* <div className={"ellipse_153"}></div> */}
-      <Header />
-      <Hero />
-      <TodaysDarshan />
-      <CuratedList />
-      <Footer />
-    </div>
-  );
+    return (
+        <div>
+            <AppHeader>
+                <Hero />
+                <Box sx={{ backgroundImage: `url(${BgImage})` }}>
+                    <Fold order={1} list={TempleListOne} title="Today’s Darshan" sub="See what happened today in History" />
+                    <Fold order={2} list={TempleListTwo} title="10 Places to Visit" sub="" />
+                    <Sponsor />
+                </Box>
+                <Footer />
+            </AppHeader>
+        </div>
+    );
 }
