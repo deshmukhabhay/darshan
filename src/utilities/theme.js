@@ -12,6 +12,26 @@ export const theme = createTheme({
                 },
             },
         },
+        MuiPaper: {
+            styleOverrides: {
+                // Name of the slot
+                root: {
+                    // Some CSS
+                    color: "#65050B",
+                },
+            },
+
+        },
+        MuiTypography: {
+            styleOverrides: {
+                // Name of the slot
+                root: {
+                    // Some CSS
+                    color: "#65050B",
+                },
+            },
+
+        }
     },
     typography: {
         fontFamily: "DM Sans",

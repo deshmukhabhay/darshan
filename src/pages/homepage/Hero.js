@@ -38,6 +38,7 @@ export default function Hero(props) {
                         <Border isWhite={true}></Border>
                         <Typography
                             sx={{
+                                color: '#FFE7D1',
                                 fontWeight: 700,
                                 fontSize: "64px",
                                 lineHeight: "100px",
@@ -52,13 +53,14 @@ export default function Hero(props) {
                             Our Country is defined by our Heritage
                         </Typography>
                         <Border isWhite={true}>
-                            <Typography sx={{ fontWeight: 700, fontSize: "36px", lineHeight: "47px", margin: "20px 15px", textAlign: "center" }} variant="subtitle1" gutterBottom component="div">
+                            <Typography sx={{ color: '#FFE7D1',fontWeight: 700, fontSize: "36px", lineHeight: "47px", margin: "20px 15px", textAlign: "center" }} variant="subtitle1" gutterBottom component="div">
                                 What is Dharohar Darshan
                             </Typography>
                         </Border>
                         <Container sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                             <Typography
                                 sx={{
+                                    color: '#FFE7D1',
                                     fontWeight: 500,
                                     fontSize: "24px",
                                     lineHeight: "28px",
@@ -73,6 +75,7 @@ export default function Hero(props) {
                             </Typography>
                             <Typography
                                 sx={{
+                                    color: '#FFE7D1',
                                     fontWeight: 500,
                                     fontSize: "24px",
                                     lineHeight: "28px",
