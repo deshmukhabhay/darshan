@@ -50,7 +50,7 @@ export default function Footer(props) {
                 <LinkItem list={Links2} title="Links" />
                 <LinkItem list={Contacts} title="Contact" />
             </Grid>
-            <Grid container justifyContent="space-between" spacing={2} sx={{padding: '24px'}}>
+            <Grid container justifyContent="space-between" sx={{padding: '16px'}}>
                 <Grid item>
                 Copyright © 2022 ASI
                 </Grid>

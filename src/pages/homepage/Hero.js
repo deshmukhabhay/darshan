@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { Box, Container, Typography, Button } from "@mui/material";
+import { Box, Container, Typography, Button, Grid } from "@mui/material";
 import Img from "../../assets/images/homepage.png";
 import Border from "../../components/Border";
 const InfoList = [
@@ -52,19 +52,13 @@ export default function Hero(props) {
                             Our Country is defined by our Heritage
                         </Typography>
                         <Border isWhite={true}>
-                            <Typography
-                                sx={{  fontWeight: 700, fontSize: "36px", lineHeight: "47px", margin: "20px 15px", textAlign: "center" }}
-                                variant="subtitle1"
-                                gutterBottom
-                                component="div"
-                            >
+                            <Typography sx={{ fontWeight: 700, fontSize: "36px", lineHeight: "47px", margin: "20px 15px", textAlign: "center" }} variant="subtitle1" gutterBottom component="div">
                                 What is Dharohar Darshan
                             </Typography>
                         </Border>
                         <Container sx={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                             <Typography
                                 sx={{
-                                    
                                     fontWeight: 500,
                                     fontSize: "24px",
                                     lineHeight: "28px",
@@ -79,7 +73,6 @@ export default function Hero(props) {
                             </Typography>
                             <Typography
                                 sx={{
-                                    
                                     fontWeight: 500,
                                     fontSize: "24px",
                                     lineHeight: "28px",
@@ -93,14 +86,16 @@ export default function Hero(props) {
                                 Indian culture, as shaped by the revered rishis, revolves around the principle of 'Vasudhaiva Kutumbakam' - treating the entire world as our own family, which reflects
                                 universality of serene love, altruism, sharing of responsibilities and caring for all beings
                             </Typography>
-                            <Box sx={{ display: "flex", alignItems: "center", justifyContent: "center" }}>
+                            <Grid justifyContent="center" spacing={4} alignItems="center" container rowSpacing={3} sx={{ paddingY: "24px" }}>
                                 {InfoList.map((i, index) => (
-                                    <Box key={index} sx={{ display: "flex", flexDirection: "column", alignItems: "center", paddingX: "25px" }}>
-                                        <Box sx={{  fontWeight: 700, fontSize: "36px" }}>{i.title}</Box>
-                                        <Box sx={{  fontWeight: 500, fontSize: "20px" }}>{i.label}</Box>
-                                    </Box>
+                                    <Grid key={index}>
+                                        <Box sx={{ display: "flex", flexDirection: "column", alignItems: "center", paddingX: "25px" }}>
+                                            <Box sx={{ fontWeight: 700, fontSize: "36px" }}>{i.title}</Box>
+                                            <Box sx={{ fontWeight: 500, fontSize: "20px" }}>{i.label}</Box>
+                                        </Box>
+                                    </Grid>
                                 ))}
-                            </Box>
+                            </Grid>
                             <Button
                                 sx={{
                                     boxShadow: "inset 3px 4px 4px #FF993A",
@@ -113,7 +108,7 @@ export default function Hero(props) {
                                     "&:hover": { backgroundColor: "#EC4E20" },
                                 }}
                             >
-                                <Box sx={{  fontWeight: 700, fontSize: "30px", textAlign: "center", color: "#FFFFFF" }}></Box>Visit now
+                                <Box sx={{ fontWeight: 700, fontSize: "30px", textAlign: "center", color: "#FFFFFF" }}></Box>Visit now
                             </Button>
                         </Container>
                     </Box>

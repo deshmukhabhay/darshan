@@ -35,7 +35,7 @@ export default function MapPage() {
                         borderRadius: "10px",
                         display: "flex",
                         alignItems: "center",
-                        width: "380px",
+                        width: isPhone ? "280px" : "380px",
                         cursor: "pointer",
                         position: isPhone ? "" : "absolute",
                         ...position,
