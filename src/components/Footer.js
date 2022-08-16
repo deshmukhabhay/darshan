@@ -6,6 +6,8 @@ import Instagram from "../assets/images/social/Instagram.svg";
 import Twitter from "../assets/images/social/Twitter.svg";
 import YouTube from "../assets/images/social/YouTube.svg";
 import Logo from "./Logo";
+import CallOutlinedIcon from "@mui/icons-material/CallOutlined";
+import EmailOutlinedIcon from "@mui/icons-material/EmailOutlined";
 export default function Footer(props) {
     const theme = useTheme();
 
@@ -27,7 +29,11 @@ export default function Footer(props) {
                 }
             >
                 {list.map((i, index) => (
-                    <ListItem key={index}>{i}</ListItem>
+                    <ListItem key={index}>
+                        {i == "Web information manager" && <EmailOutlinedIcon sx={{marginRight: '8px'}} />}
+                        {i == "+020 2222020202" && <CallOutlinedIcon sx={{marginRight: '8px'}} />}
+                        {i}
+                    </ListItem>
                 ))}
             </List>
         </Grid>
@@ -50,13 +56,9 @@ export default function Footer(props) {
                 <LinkItem list={Links2} title="Links" />
                 <LinkItem list={Contacts} title="Contact" />
             </Grid>
-            <Grid container justifyContent="space-between" sx={{padding: '16px'}}>
-                <Grid item>
-                Copyright © 2022 ASI
-                </Grid>
-                <Grid item>
-                All Rights Reserved | Terms and Conditions | Privacy Policy
-                </Grid>
+            <Grid container justifyContent="space-between" sx={{ padding: "16px" }}>
+                <Grid item>Copyright © 2022 ASI</Grid>
+                <Grid item>All Rights Reserved | Terms and Conditions | Privacy Policy</Grid>
             </Grid>
         </Box>
     );
