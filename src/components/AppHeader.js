@@ -113,21 +113,21 @@ export default function AppHeader(props) {
                             <>
                                 <Logo />
                                 <Stack alignItems="center" spacing={2} direction="row">
-                                    <span className="router_link" onClick={() => navigate("/")} style={{ cursor: "pointer" }}>
+                                    <Box className="router_link" onClick={() => navigate("/")} sx={{ color: "#FFF2D8", cursor: "pointer" }}>
                                         Home
-                                    </span>
-                                    <span className="router_link" onClick={() => navigate("/mappage")} style={{ cursor: "pointer" }}>
+                                    </Box>
+                                    <Box className="router_link" onClick={() => navigate("/mappage")} sx={{ color: "#FFF2D8", cursor: "pointer" }}>
                                         Map View
-                                    </span>
-                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                    </Box>
+                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
                                         About
-                                    </span>
-                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                    </Box>
+                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
                                         Discover
-                                    </span>
-                                    <span className="router_link" style={{ cursor: "pointer" }}>
+                                    </Box>
+                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
                                         Blog
-                                    </span>
+                                    </Box>
                                 </Stack>
                             </>
                         )}
@@ -161,7 +161,7 @@ export default function AppHeader(props) {
                         <ListItem key={index} disablePadding onClick={index == 0 || index == 1 ? (index == 0 ? () => navigate("/") : () => navigate("/mappage")) : undefined}>
                             <ListItemButton>
                                 <ListItemIcon sx={{ color: "#fff" }}>{index % 2 === 0 ? <InboxIcon /> : <MailIcon />}</ListItemIcon>
-                                <ListItemText primary={text} />
+                                <ListItemText sx={{ "& .MuiTypography-root": { color: "#fff" } }} primary={text} />
                             </ListItemButton>
                         </ListItem>
                     ))}
