@@ -1,13 +1,13 @@
 import * as React from "react";
 import { styled, useTheme } from "@mui/material/styles";
 import Box from "@mui/material/Box";
-import { Drawer, CssBaseline, AppBar as MuiAppBar, Toolbar, List, Divider, IconButton, ListItem, ListItemButton, ListItemIcon } from "@mui/material";
+import { Drawer, CssBaseline, AppBar as MuiAppBar, Toolbar, List, Divider, IconButton, ListItem, ListItemButton, ListItemIcon, Link } from "@mui/material";
 import ListItemText from "@mui/material/ListItemText";
 import InboxIcon from "@mui/icons-material/MoveToInbox";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 import MailIcon from "@mui/icons-material/Mail";
-import { useLocation, useNavigate } from "react-router-dom";
+import { NavLink, useLocation, useNavigate } from "react-router-dom";
 import Logo from "./Logo";
 import { Stack } from "@mui/material";
 import { FaChevronDown } from "react-icons/fa";
@@ -100,6 +100,19 @@ export default function AppHeader(props) {
         setOpen(false);
     };
 
+    const CustomLink = ({ href, label }) => (
+        <Link
+            href={href}
+            style={{ color: "#FFF2D8", fontFamily: "DM Sans", fontWeight: 500, fontSize: "20px" }}
+            activeStyle={{
+                fontWeight: "bold",
+                color: "red",
+            }}
+        >
+            {label}
+        </Link>
+    );
+
     return (
         <Box sx={{ display: "flex" }}>
             <CssBaseline />
@@ -113,21 +126,11 @@ export default function AppHeader(props) {
                             <>
                                 <Logo />
                                 <Stack alignItems="center" spacing={2} direction="row">
-                                    <Box className="router_link" onClick={() => navigate("/")} sx={{ color: "#FFF2D8", cursor: "pointer" }}>
-                                        Home
-                                    </Box>
-                                    <Box className="router_link" onClick={() => navigate("/mappage")} sx={{ color: "#FFF2D8", cursor: "pointer" }}>
-                                        Map View
-                                    </Box>
-                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
-                                        About
-                                    </Box>
-                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
-                                        Discover
-                                    </Box>
-                                    <Box className="router_link" sx={{ color: "#FFF2D8", cursor: "pointer" }}>
-                                        Blog
-                                    </Box>
+                                    <CustomLink href="/" label="Home" />
+                                    <CustomLink href="/mappage" label="Map View" />
+                                    <CustomLink href="#" label="About" />
+                                    <CustomLink href="#" label="Discover" />
+                                    <CustomLink href="#" label="Blog" />
                                 </Stack>
                             </>
                         )}

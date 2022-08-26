@@ -1,7 +1,7 @@
 import React from "react";
 import { FaChevronDown } from "react-icons/fa";
 import Darshan from "../assets/images/DharoharDarshan.png";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 export default function Header(props) {
   const navigate = useNavigate();
@@ -12,7 +12,7 @@ export default function Header(props) {
         <img className={"DharoharDarshan"} src={Darshan} />
         <span className={"DharoharDarshanText"}>Dharohar Darshan</span>
       </div>
-      <span className={"HomeText"}  onClick={()=> navigate("/")} >Home</span>
+      <Link to="/">Home</Link>
       <span className={"MapViewText"} onClick={()=> navigate("/mappage")}>Map View</span>
       <span className={"AboutText"}>About</span>
       <span className={"DiscoverText"}>Discover</span>

@@ -42,6 +42,14 @@ export default function LocationPage() {
 
     const { state } = useLocation();
 
+    const transitionClass = {
+        cursor: "pointer",
+        transition: "0.2s",
+        "&:hover": {
+            transform: "scale(1.2)",
+        },
+    };
+
     return (
         <div>
             <AppHeader>
@@ -58,7 +66,7 @@ export default function LocationPage() {
                         }}
                     >
                         <ArrowBackIosIcon onClick={() => navigate("/mappage")} sx={{ cursor: "pointer" }} />
-                        <Box sx={{ fontFamily: "Crimson Text", fontWeight: 400, fontSize: "48px" }}>{state || ""}</Box>
+                        <Box sx={{ fontWeight: 400, fontSize: "48px" }}>{state || ""}</Box>
                         <ShareIcon sx={{ cursor: "pointer" }} />
                     </Box>
                     <Box sx={{ display: "flex", justifyContent: "center", padding: "24px" }}>
@@ -79,7 +87,7 @@ export default function LocationPage() {
                     </Box>
                     <Grid justifyContent="center" spacing={2} alignItems="center" container rowSpacing={3} sx={{ paddingY: "24px" }}>
                         {[First, Second, Third, Fourth, Fifth].map((i, index) => (
-                            <Grid sx={{ padding: "24px" }}>
+                            <Grid sx={{...transitionClass, ...{ padding: "24px" }}}>
                                 <img key={index} src={i} />
                             </Grid>
                         ))}

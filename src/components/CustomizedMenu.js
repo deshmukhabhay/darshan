@@ -57,6 +57,7 @@ export default function CustomizedMenu() {
             <Button
                 id="demo-customized-button"
                 aria-controls={open ? "demo-customized-menu" : undefined}
+                variant="contained"
                 aria-haspopup="true"
                 aria-expanded={open ? "true" : undefined}
                 disableElevation

@@ -14,6 +14,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
+import CustomSelect from "../../components/CustomSelect";
 export default function MapPage() {
     const theme = useTheme();
     const isPhone = useMediaQuery(theme.breakpoints.down("sm"));
@@ -59,17 +60,39 @@ export default function MapPage() {
         "& .MuiOutlinedInput-notchedOutline": { borderWidth: 0 },
         "& .MuiInputBase-input": { color: theme.palette.primary.main },
     };
+
+    const states = [
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Gujarat"
+    ]
+
+    const cultures = [
+        "Archaeological",
+        "Natural Heritage",
+        "Pop Culture",
+        "ASI Locations"
+    ]
+
+    const centuries = [
+        "21st Century",
+        "20st Century",
+        "18st Century",
+        "17st Century",
+    ]
     return (
         <div>
             <AppHeader>
                 <Box sx={{ backgroundImage: `url(${BgImage})` }}>
-                    <Container>
-                        <Grid justifyContent="center" spacing={4} alignItems="center" container rowSpacing={3} sx={{ paddingY: "24px" }}>
-                            <Grid item sm={12} md={12}>
+                    <Container sx={{backdropFilter: 'blur(10px)'}}>
+                        <Grid justifyContent="center" spacing={4} alignItems="center" container rowSpacing={3} sx={{ paddingBottom: "24px", paddingTop: isTab ? isPhone ? "35px" : "50px" : "24px"  }}>
+                            <Grid item sm={12} md={12} xs={12}>
                                 <TextField
                                     fullWidth
-                                    placeholder="Search a place"
-                                    sx={{ ...inputClass }}
                                     InputProps={{
                                         startAdornment: (
                                             <InputAdornment position="start">
@@ -77,53 +100,18 @@ export default function MapPage() {
                                             </InputAdornment>
                                         ),
                                     }}
+                                    label="Search a place"
                                     variant="outlined"
                                 />
                             </Grid>
-                            <Grid item md={4} sm={12}>
-                                <TextField
-                                    fullWidth
-                                    placeholder="Filter State"
-                                    sx={{ ...inputClass }}
-                                    InputProps={{
-                                        endAdornment: (
-                                            <InputAdornment position="start">
-                                                <ArrowDropDownIcon />
-                                            </InputAdornment>
-                                        ),
-                                    }}
-                                    variant="outlined"
-                                />
+                            <Grid item md={4} sm={12} xs={12}>
+                                <CustomSelect label="Filter State" options={states} />
                             </Grid>
-                            <Grid item md={4} sm={12}>
-                                <TextField
-                                    fullWidth
-                                    placeholder="Filter State"
-                                    sx={{ ...inputClass }}
-                                    InputProps={{
-                                        endAdornment: (
-                                            <InputAdornment position="start">
-                                                <ArrowDropDownIcon />
-                                            </InputAdornment>
-                                        ),
-                                    }}
-                                    variant="outlined"
-                                />
+                            <Grid item md={4} sm={12} xs={12}>
+                                <CustomSelect label="Type of site" options={cultures} />
                             </Grid>
-                            <Grid item md={4} sm={12}>
-                                <TextField
-                                    fullWidth
-                                    placeholder="Filter State"
-                                    sx={{ ...inputClass }}
-                                    InputProps={{
-                                        endAdornment: (
-                                            <InputAdornment position="start">
-                                                <ArrowDropDownIcon />
-                                            </InputAdornment>
-                                        ),
-                                    }}
-                                    variant="outlined"
-                                />
+                            <Grid item md={4} sm={12} xs={12}>
+                                <CustomSelect label="Datewise" options={centuries} />
                             </Grid>
                         </Grid>
                     </Container>

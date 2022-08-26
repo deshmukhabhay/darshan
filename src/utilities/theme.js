@@ -31,6 +31,61 @@ export const theme = createTheme({
                 },
             },
 
+        },
+        MuiInputBase: {
+            styleOverrides: {
+                root: {
+                    borderColor: "#65050B",
+                    borderRadius: "85px",
+                    color: '#65050B'
+                },
+
+            },
+            
+        },
+        MuiOutlinedInput: {
+            styleOverrides: {
+                root: {
+                    borderColor: "#65050B",
+                    borderRadius: "85px",
+                    color: '#65050B'
+                },
+
+            },
+            
+        },
+        MuiFormControl: {
+            styleOverrides: {
+                root: {
+                    borderColor: "#65050B !important",
+                    color: '#65050B'
+                },
+
+            },
+        },
+        MuiSelect: {
+            styleOverrides: {
+                root: {
+                    borderColor: "#65050B",
+                    color: '#65050B'
+                }
+            }
+        },
+        MuiInput: {
+            styleOverrides: {
+                root: {
+                    borderRadius: "85px",
+                    color: '#65050B'
+                }
+            }
+        },
+        MuiFormLabel: {
+            styleOverrides: {
+                root: {
+                    color: '#65050B'
+                }
+            }
+
         }
     },
     typography: {

@@ -50,14 +50,14 @@ export const TempleListTwo = [
 export const TempleListThree = [
     {
         label: "Somnath Temple",
-        img: Nine,
+        img: Five,
     },
     {
         label: "Prambanan Temple",
-        img: One,
+        img: Six,
     },
     {
         label: "Lotus Mahal",
-        img: One,
+        img: Seven,
     }
 ];

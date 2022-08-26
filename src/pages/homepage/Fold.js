@@ -33,17 +33,25 @@ export default function Fold({ order, title, sub, list }) {
     );
 }
 
+const transitionClass = {
+    cursor: "pointer",
+    transition: "0.2s",
+    "&:hover": {
+        transform: "scale(1.05)",
+    },
+};
+
 export const FoldTemplate = ({ list }) => {
     const theme = useTheme();
     const textClass = { color: theme.palette.primary.main, fontFamily: "DM Sans", fontWeight: 500, fontSize: "22px", lineHeight: "28px", marginY: "15px" };
     return list.map((i, index) => {
         return (
             <Grid item key={index}>
-                <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", margin: "10px" }}>
+                <Box style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", margin: "10px" }} sx={transitionClass}>
                     <img src={i.img} width="261px" height="261px" />
                     <Box sx={textClass}>{i.label}</Box>
                     <Button>Read More</Button>
-                </div>
+                </Box>
             </Grid>
         );
     });
