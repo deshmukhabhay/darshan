@@ -3,7 +3,9 @@ import Footer from "../../components/Footer";
 import BgImage from "../../assets/images/Dharohar_Darshan_website_1.png";
 import { useTheme } from "@mui/material/styles";
 import ReactPannellum, { getConfig } from "react-pannellum";
-import Img from "../../assets/images/For360view.jpeg";
+import Img1 from "../../assets/images/360/360-1.jpg";
+import Img2 from "../../assets/images/360/360-2.jpg";
+import Img3 from "../../assets/images/360/360-3.jpg";
 import { useLocation, useNavigate } from "react-router-dom";
 import { TempleListThree } from "../../utilities/constants";
 import AppHeader from "../../components/AppHeader";
@@ -28,8 +30,7 @@ export default function LocationPage() {
     const navigate = useNavigate();
 
     useEffect(() => {
-        const Element = document.getElementsByClassName("container3");
-        if (Element.length) Element[0].scrollIntoView();
+        document.getElementsByTagName('main')[0].scrollIntoView()
     }, []);
 
     const config = {
@@ -48,6 +49,23 @@ export default function LocationPage() {
         "&:hover": {
             transform: "scale(1.2)",
         },
+    };
+
+    const get360Image = (title) => {
+        switch (title) {
+            case "Someshwar temple":
+                return Img1;
+                break;
+            case "Ganpati Temple":
+                return Img2;
+                break;
+            case "Site of Sahet":
+                return Img3;
+                break;
+
+            default:
+                break;
+        }
     };
 
     return (
@@ -81,13 +99,13 @@ export default function LocationPage() {
                             }}
                             id="1"
                             sceneId="firstScene"
-                            imageSource={Img}
+                            imageSource={get360Image(state)}
                             config={config}
                         />
                     </Box>
                     <Grid justifyContent="center" spacing={2} alignItems="center" container rowSpacing={3} sx={{ paddingY: "24px" }}>
                         {[First, Second, Third, Fourth, Fifth].map((i, index) => (
-                            <Grid sx={{...transitionClass, ...{ padding: "24px" }}}>
+                            <Grid sx={{ ...transitionClass, ...{ padding: "24px" } }}>
                                 <img key={index} src={i} />
                             </Grid>
                         ))}

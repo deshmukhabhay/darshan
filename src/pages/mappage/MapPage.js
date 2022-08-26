@@ -5,6 +5,8 @@ import { Box, Button, Container, Grid, InputAdornment, TextField } from "@mui/ma
 import BgImage from "../../assets/images/Dharohar_Darshan_website_1.png";
 import MapImage from "../../assets/images/India.png";
 import ImageOne from "../../assets/images/site.jpeg";
+import ImageTwo from "../../assets/images/SubramanyaswamyTemple.png";
+import ImageThree from "../../assets/images/temple/Rectangle4518.png";
 import Fold from "../homepage/Fold";
 import { TempleListThree, TempleListTwo } from "../../utilities/constants";
 import AppHeader from "../../components/AppHeader";
@@ -129,8 +131,8 @@ export default function MapPage() {
                             }}
                         >
                             <Card left={isTab ? "46%" : "36%"} top="52%" title="Someshwar temple" sub="Gujarat" image={ImageOne} />
-                            <Card left={isTab ? "31%" : "51%"} top="42%" title="Ganpati Temple" sub="Maharashtra" image={ImageOne} isLeft />
-                            <Card left={isTab ? "30%" : "40%"} top="21%" title="Site of Sahet" sub="UP" image={ImageOne} />
+                            <Card left={isTab ? "31%" : "51%"} top="42%" title="Ganpati Temple" sub="Maharashtra" image={ImageTwo} isLeft />
+                            <Card left={isTab ? "30%" : "40%"} top="21%" title="Site of Sahet" sub="UP" image={ImageThree} />
                         </Box>
                     </Box>
                     <Component />
