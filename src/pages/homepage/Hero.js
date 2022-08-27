@@ -79,7 +79,7 @@ export default function Hero(props) {
                                 The rich heritage of India, one of the world's oldest civilizations, is an all-embracing confluence of religions, traditions and customs. The highlights of Indian
                                 heritage lie in the treasure of its art, architecture, classical dance, music, flora and fauna
                             </Box>
-                            <Box
+                            {/* <Box
                                 sx={{
                                     color: "#FFE7D1",
                                     fontWeight: 500,
@@ -94,7 +94,7 @@ export default function Hero(props) {
                                 The Indian culture is described as 'Sa Prathama Sanskrati Vishvavara' - the first and the supreme culture in the world. It is honored as a divine culture. The core of
                                 Indian culture, as shaped by the revered rishis, revolves around the principle of 'Vasudhaiva Kutumbakam' - treating the entire world as our own family, which reflects
                                 universality of serene love, altruism, sharing of responsibilities and caring for all beings
-                            </Box>
+                            </Box> */}
                             <Grid justifyContent="center" spacing={4} alignItems="center" container rowSpacing={3} sx={{ paddingY: "24px" }}>
                                 {InfoList.map((i, index) => (
                                     <Grid key={index}>
