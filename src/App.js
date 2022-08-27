@@ -22,6 +22,7 @@ function App() {
                 />
                 <Route
                     path="/mappage"
+                    exact={true}
                     element={
                         <React.Suspense fallback={<ProgressLoader />}>
                             <MapPage />
